@@ -1,3 +1,14 @@
+function addSourceDetailsToggler() {
+    $('.source-details').bind('click', function(e) {
+        e.preventDefault();
+        if ($('.source-details').hasClass('collapse')) {
+            $('.source-details').removeClass('collapse');
+        } else {
+            $('.source-details').addClass('collapse');
+        }
+    });
+}
+
 function getNav() {
   var mobileNav = $('nav[role=navigation] fieldset[role=search]').after('<fieldset class="mobile-nav"></fieldset>').next().append('<select></select>');
   mobileNav.children('select').append('<option value="">Navigate&hellip;</option>');
@@ -123,6 +134,7 @@ $.domReady(function() {
   addCodeLineNumbers();
   getNav();
   addSidebarToggler();
+  addSourceDetailsToggler();
 });
 
 // iOS scaling bug fix

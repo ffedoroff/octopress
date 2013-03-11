@@ -190,3 +190,10 @@ body.sidebar-footer {
   }
 }
 
+div.source-details{
+  .show { display: none; }
+}
+div.source-details.collapse{
+  .data, .hide { display: none; }
+  .show { display: block; }
+}

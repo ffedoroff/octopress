@@ -25,4 +25,9 @@
   {% endif %}
 {% else %}
 <div class="entry-content">{{ content }}</div>
+<div class="source-details collapse">
+    <div class="show">show details</div>
+    <div class="hide">hide details</div>
+    <div class="data">{{ page.description }}</div>
+</div>
 {% endif %}
