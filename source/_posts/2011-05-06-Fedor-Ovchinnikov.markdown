@@ -25,7 +25,7 @@ id: "cLtQHtS2W8k"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/cLtQHtS2W8k/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/cLtQHtS2W8k/default.jpg Бизнес-секреты: Федор Овчинников %}
 Молодой предприниматель Федор Овчинников в программе «Бизнес-секреты с Олегом Тиньковым» (08.05.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

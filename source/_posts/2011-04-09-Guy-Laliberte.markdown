@@ -25,7 +25,7 @@ id: "KgonsWgYDTA"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/KgonsWgYDTA/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/KgonsWgYDTA/default.jpg Business Secrets: Guy Laliberte %}
 Interview in English. Guy Laliberte of Cirque du Soleil tells about his entrepreneurial career to Oleg Tinkov and Oleg Anisimov. Russian subtitles.  
   
 Основатель Цирк Дю Солей Ги Лалиберте в программе «Бизнес-секреты с Олегом Тиньковым» (10.04.2011)

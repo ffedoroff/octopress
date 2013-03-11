@@ -25,7 +25,7 @@ id: "VZLJs5ynLFQ"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/VZLJs5ynLFQ/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/VZLJs5ynLFQ/default.jpg Бизнес-секреты: Ольга Слуцкер %}
 Ольга Слуцкер, основатель сети фитнес-центров World Class, в программе «Бизнес-секреты с Олегом Тиньковым» (09.10.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/115  

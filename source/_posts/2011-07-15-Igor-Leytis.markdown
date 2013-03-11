@@ -25,7 +25,7 @@ id: "jxYVSBiHPwk"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/jxYVSBiHPwk/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/jxYVSBiHPwk/default.jpg Бизнес-секреты: Игорь Лейтис %}
 Игорь Лейтис в программе «Бизнес-секреты с Олегом Тиньковым» (17.07.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/101  

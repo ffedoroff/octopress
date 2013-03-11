@@ -25,7 +25,7 @@ id: "08ijcWUdeLU"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/08ijcWUdeLU/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/08ijcWUdeLU/default.jpg Бизнес-секреты: Максим Иванов %}
 Председатель совета директоров "Фудлайн" Максим Иванов в программе "Бизнес-секреты с "Олегом Тиньковым" (07.08.2011).  
   
 Страница ВК: http://vkontakte.ru/bizsekrety  

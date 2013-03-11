@@ -25,7 +25,7 @@ id: "o1pS92AG8xQ"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/o1pS92AG8xQ/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/o1pS92AG8xQ/default.jpg Business Secrets: Filip Engelbert %}
 Filip Engelbert, the founder of Avito, speaks with Russian entrepreneur Oleg Tinkov in the internet-TV-program "Business Secrets". In English  
   
 Филип Энгельберт, исполнительный директор и соучредитель Avito.ru, в программе «Бизнес-секреты с Олегом Тиньковым» (16.10.2011).  

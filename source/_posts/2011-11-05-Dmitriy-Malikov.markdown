@@ -25,7 +25,7 @@ id: "dhdsa0L7gw4"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/dhdsa0L7gw4/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/dhdsa0L7gw4/default.jpg Бизнес-секреты: Дмитрий Маликов %}
 Дмитрий Маликов в программе «Бизнес-секреты с Олегом Тиньковым» (06.11.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/123  

@@ -25,7 +25,7 @@ id: "sP0XmK1dlsE"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/sP0XmK1dlsE/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/sP0XmK1dlsE/default.jpg Бизнес-секреты: Вадим Финкельштейн %}
 Вадим Финкельштейн в программе «Бизнес-секреты с Олегом Тиньковым» (31.07.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/105  

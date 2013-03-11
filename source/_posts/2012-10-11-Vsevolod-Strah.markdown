@@ -25,5 +25,5 @@ id: "lKtoMEkzchA"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/lKtoMEkzchA/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/lKtoMEkzchA/default.jpg Бизнес-секреты: Всеволод Страх %}
 Олег Тиньков интервьюирует основателя интернет-магазина "Сотмаркет" Всеволода Страха в новом офисе банка "Тинькофф Кредитные Системы".

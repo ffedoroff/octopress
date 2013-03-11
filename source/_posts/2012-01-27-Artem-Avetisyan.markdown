@@ -25,7 +25,7 @@ id: "s3BCNDe-2pM"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/s3BCNDe-2pM/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/s3BCNDe-2pM/default.jpg Бизнес-секреты: Артем Аветисян %}
 Артем Аветисян, руководитель направления «Новый бизнес» в Агентстве стратегических инициатив, в программе «Бизнес-секреты с Олегом Тиньковым» (29.01.2012).  
   
 Обсуждение: http://tinkov.com/bizsekrety/135  

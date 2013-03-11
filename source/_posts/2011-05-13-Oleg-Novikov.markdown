@@ -25,7 +25,7 @@ id: "xXkQ5G823Ys"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/xXkQ5G823Ys/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/xXkQ5G823Ys/default.jpg Бизнес-секреты: Олег Новиков %}
 Основатель издательства "Эксмо" Олег Новиков  в программе «Бизнес-секреты с Олегом Тиньковым» (15.05.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

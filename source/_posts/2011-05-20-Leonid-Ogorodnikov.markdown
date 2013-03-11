@@ -25,7 +25,7 @@ id: "M57ZyeDXjo4"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/M57ZyeDXjo4/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/M57ZyeDXjo4/default.jpg Бизнес-секреты: Леонид Огородников %}
 Председатель совета директоров "КАРО Фильм" Леонид Огородников в программе «Бизнес-секреты с Олегом Тиньковым» (22.05.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

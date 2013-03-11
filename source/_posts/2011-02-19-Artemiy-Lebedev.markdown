@@ -25,7 +25,7 @@ id: "MKoNHZbERMQ"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/MKoNHZbERMQ/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/MKoNHZbERMQ/default.jpg Бизнес-секреты: Артемий Лебедев %}
 Основатель Студии Артемия Лебедева в программе «Бизнес-секреты с Олегом Тиньковым» (21.02.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

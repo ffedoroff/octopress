@@ -25,7 +25,7 @@ id: "pBB3VY5c1-k"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/pBB3VY5c1-k/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/pBB3VY5c1-k/default.jpg Бизнес-секреты: Андрей Даниленко %}
 Андрей Даниленко - председатель правления Национального союза производителей молока, в программе «Бизнес-секреты с Олегом Тиньковым» (23.10.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/119  

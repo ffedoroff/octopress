@@ -25,7 +25,7 @@ id: "n-z9FnRXkXY"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/n-z9FnRXkXY/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/n-z9FnRXkXY/default.jpg Бизнес-секреты: Максим Каширин %}
 Винный предприниматель Максим Каширин в программе «Бизнес-секреты с Олегом Тиньковым» (01.05.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

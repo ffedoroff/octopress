@@ -25,7 +25,7 @@ id: "Lsvwm-6wNVE"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/Lsvwm-6wNVE/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/Lsvwm-6wNVE/default.jpg Бизнес-секреты: Алла Вербер %}
 Алла Вербер в программе «Бизнес-секреты с Олегом Тиньковым» (26.06.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/95  

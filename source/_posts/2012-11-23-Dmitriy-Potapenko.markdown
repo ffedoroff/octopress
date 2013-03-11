@@ -25,7 +25,7 @@ id: "k1lpX6Xv8as"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/k1lpX6Xv8as/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/k1lpX6Xv8as/default.jpg Бизнес-секреты: Дмитрий Потапенко %}
 Второй выпуск "Бизнес-секретов с Олегом Тиньковым" на РБК-ТВ. В гостях - основатель Management Development Group Дмитрий Потапенко.  
   
 http://vk.com/wall-23342771_39953  

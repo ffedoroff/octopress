@@ -25,7 +25,7 @@ id: "1xTUkxNDYpE"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/1xTUkxNDYpE/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/1xTUkxNDYpE/default.jpg Бизнес-секреты: Сергей Полонский (2) %}
 Сергей Полонский в программе «Бизнес-секреты с Олегом Тиньковым» Часть 2.  (18.09.2011).  
   
 1 часть http://www.youtube.com/watch?v=kj7BIq...  

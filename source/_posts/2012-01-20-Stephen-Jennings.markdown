@@ -25,7 +25,7 @@ id: "mg-I818saDg"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/mg-I818saDg/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/mg-I818saDg/default.jpg Business Secrets: Stephen Jennings %}
 Founder of investment bank (Russia, Ukraine, Africa etc) Renaissance Capital Stephen Jennings in 2012 interview with Russian entrepreneur Oleg Tinkov (Tinkoff Credit Systems). Video in English with Russian subtitles.  
 Стивен Дженнингс, основатель и совладелец инвестиционной группы "Ренессанс капитал" в программе «Бизнес-секреты с Олегом Тиньковым» (22.01.2011).  
 Обсуждение и текстовая версия:  http://tinkov.com/bizsekrety/134  

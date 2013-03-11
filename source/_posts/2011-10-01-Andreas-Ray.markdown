@@ -25,7 +25,7 @@ id: "5JvQuPx6oDI"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/5JvQuPx6oDI/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/5JvQuPx6oDI/default.jpg Бизнес-секреты: Андреас Рай %}
 Андреас Рай — генеральный промоутер клуба "Рай" в программе «Бизнес-секреты с Олегом Тиньковым» (02.10.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/113  

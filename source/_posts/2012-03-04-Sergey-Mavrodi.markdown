@@ -25,7 +25,7 @@ id: "dnmgnDqKL9c"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/dnmgnDqKL9c/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/dnmgnDqKL9c/default.jpg Бизнес-секреты: Сергей Мавроди %}
 В гостях программы "Бизнес-секреты" - Сергей Мавроди (04.03.2012).  
   
 http://tinkov.com/bizsekrety/137  

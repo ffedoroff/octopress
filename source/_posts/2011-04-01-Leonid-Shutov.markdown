@@ -25,7 +25,7 @@ id: "-VP7vghsoEU"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/-VP7vghsoEU/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/-VP7vghsoEU/default.jpg Бизнес-секреты: Леонид Шутов %}
 Владелец ресторана Bob Bob Ricard Леонид Шутов  в программе «Бизнес-секреты с Олегом Тиньковым» (03.04.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

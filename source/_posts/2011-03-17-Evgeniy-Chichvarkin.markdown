@@ -25,7 +25,7 @@ id: "IdQrGkO6GM8"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/IdQrGkO6GM8/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/IdQrGkO6GM8/default.jpg Бизнес-секреты: Евгений Чичваркин %}
 Основатель "Евросети" Евгений Чичваркин в программе «Бизнес-секреты с Олегом Тиньковым» (27.03.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

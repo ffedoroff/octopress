@@ -25,7 +25,7 @@ id: "oipxvwjK8mE"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/oipxvwjK8mE/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/oipxvwjK8mE/default.jpg Бизнес-секреты: Елена Батурина %}
 Самая богатая женщина Елена Батурина в программе «Бизнес-секреты с Олегом Тиньковым» (27.02.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/139...  
 Страница ВК: http://vkontakte.ru/public23342771  

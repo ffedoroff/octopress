@@ -25,7 +25,7 @@ id: "l6kj7dqGN0Y"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/l6kj7dqGN0Y/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/l6kj7dqGN0Y/default.jpg Бизнес-секреты: Сергей Матвиенко %}
 Сергей Матвиенко в программе «Бизнес-секреты с Олегом Тиньковым» (19.06.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/93  

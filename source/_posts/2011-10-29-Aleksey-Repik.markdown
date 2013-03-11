@@ -25,7 +25,7 @@ id: "jpdYTSbPU_A"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/jpdYTSbPU_A/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/jpdYTSbPU_A/default.jpg Бизнес-секреты: Алексей Репик %}
 Алексей Репик, председатель совета директоров "Р-Фарм", в программе «Бизнес-секреты с Олегом Тиньковым» (30.10.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/121  

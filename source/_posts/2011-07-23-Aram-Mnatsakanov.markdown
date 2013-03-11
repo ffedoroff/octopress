@@ -25,7 +25,7 @@ id: "77KijruPOXA"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/77KijruPOXA/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/77KijruPOXA/default.jpg Бизнес-секреты: Арам Мнацаканов %}
 Арам Мнацаканов в программе «Бизнес-секреты с Олегом Тиньковым» (24.07.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/103  

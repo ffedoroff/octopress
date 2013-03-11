@@ -25,7 +25,7 @@ id: "DlpkVo8L59I"
 subtitles: "None"
 ---
 
-{% img left http://i1.ytimg.com/vi/DlpkVo8L59I/default.jpg Place Kitten #2 %}
+{% img left http://i1.ytimg.com/vi/DlpkVo8L59I/default.jpg Бизнес-секреты: Александр Акопов %}
 Третий выпуск "Бизнес-секретов с Олегом Тиньковым" на РБК-ТВ. В гостях - основатель "Амедиа" Александр Акопов.  
   
 http://vk.com/bizsekrety?w=wall-23342...  

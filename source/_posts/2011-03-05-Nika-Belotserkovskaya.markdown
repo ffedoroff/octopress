@@ -25,7 +25,7 @@ id: "SeRd38qbZvc"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/SeRd38qbZvc/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/SeRd38qbZvc/default.jpg Бизнес-секреты: Ника Белоцерковская %}
 Основатель ИД "Собака", блогер belonika и кулинарный писатель Вероника Белоцерковская в программе «Бизнес-секреты с Олегом Тиньковым» (06.03.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

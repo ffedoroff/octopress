@@ -25,7 +25,7 @@ id: "A12y4HSQ7DE"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/A12y4HSQ7DE/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/A12y4HSQ7DE/default.jpg Бизнес-секреты: Сергей Петров %}
 Сергей Петров депутат Госдумы от "Справедливой России", основатель группы компаний "Рольф" в программе «Бизнес-секреты с Олегом Тиньковым» (11.12.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/n/129  

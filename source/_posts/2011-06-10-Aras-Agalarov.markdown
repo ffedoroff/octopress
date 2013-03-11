@@ -25,7 +25,7 @@ id: "ulzJcKjU6ps"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/ulzJcKjU6ps/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/ulzJcKjU6ps/default.jpg Бизнес-секреты: Арас Агаларов %}
 Арас Агаларов в программе «Бизнес-секреты с Олегом Тиньковым» (12.06.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/91  

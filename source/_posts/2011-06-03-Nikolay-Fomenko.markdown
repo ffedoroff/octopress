@@ -25,7 +25,7 @@ id: "GsCAgtODM2k"
 subtitles: "None"
 ---
 
-{% img left http://i4.ytimg.com/vi/GsCAgtODM2k/default.jpg Place Kitten #2 %}
+{% img left http://i4.ytimg.com/vi/GsCAgtODM2k/default.jpg Бизнес-секреты: Николай Фоменко %}
 Николай Фоменко в программе «Бизнес-секреты с Олегом Тиньковым» (05.06.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

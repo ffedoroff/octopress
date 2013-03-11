@@ -25,7 +25,7 @@ id: "504IPjTXd34"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/504IPjTXd34/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/504IPjTXd34/default.jpg Бизнес-секреты: Алексей Панферов %}
 Алексей Панферов в программе «Бизнес-секреты с Олегом Тиньковым» (10.07.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/99  

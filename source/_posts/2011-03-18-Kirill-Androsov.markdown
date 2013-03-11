@@ -25,7 +25,7 @@ id: "UNxPixUG5Q4"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/UNxPixUG5Q4/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/UNxPixUG5Q4/default.jpg Бизнес-секреты: Кирилл Андросов %}
 Управляющий партнер Altera Capital Кирилл Андросов в программе «Бизнес-секреты с Олегом Тиньковым» (20.03.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

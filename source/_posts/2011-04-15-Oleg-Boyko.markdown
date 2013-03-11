@@ -25,7 +25,7 @@ id: "R_nuPRekJ-g"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/R_nuPRekJ-g/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/R_nuPRekJ-g/default.jpg Бизнес-секреты: Олег Бойко %}
 Миллиардер Олег Бойко в программе «Бизнес-секреты с Олегом Тиньковым» (17.04.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

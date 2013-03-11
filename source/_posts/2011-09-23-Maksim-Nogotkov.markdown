@@ -25,7 +25,7 @@ id: "ZuEQe-pixY0"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/ZuEQe-pixY0/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/ZuEQe-pixY0/default.jpg Бизнес-секреты: Максим Ноготков %}
 Максим Ноготков — владелец сети «Связной» в программе «Бизнес-секреты с Олегом Тиньковым» (25.09.2011).  
   
 Обсуждение: http://tinkov.com/bizsekrety/115  

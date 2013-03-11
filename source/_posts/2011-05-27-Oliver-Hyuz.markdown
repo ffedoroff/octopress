@@ -25,7 +25,7 @@ id: "5QAL0R1wgOk"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/5QAL0R1wgOk/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/5QAL0R1wgOk/default.jpg Бизнес-секреты: Оливер Хьюз %}
 Оливер Хьюз президент tcsbank.ru  в программе «Бизнес-секреты с Олегом Тиньковым» (29.05.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com  
 Страница ВК: http://vkontakte.ru/bizsekrety  

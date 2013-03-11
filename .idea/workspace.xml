@@ -2,9 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f323f092-e497-4883-8d23-a68729fba367" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/2013-03-11-hello-world.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-02-19-Artemiy-Lebedev.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-02-19-Artemiy-Lebedev.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-02-26-Elena-Baturina.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-02-26-Elena-Baturina.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-03-05-Nika-Belotserkovskaya.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-03-05-Nika-Belotserkovskaya.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-03-11-Richard-Branson.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-03-11-Richard-Branson.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-03-17-Evgeniy-Chichvarkin.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-03-17-Evgeniy-Chichvarkin.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-03-18-Kirill-Androsov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-03-18-Kirill-Androsov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-04-01-Leonid-Shutov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-04-01-Leonid-Shutov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-04-09-Guy-Laliberte.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-04-09-Guy-Laliberte.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-04-15-Oleg-Boyko.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-04-15-Oleg-Boyko.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-04-23-Evgeniy-Katsenelson.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-04-23-Evgeniy-Katsenelson.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-04-30-Maksim-Kashirin.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-04-30-Maksim-Kashirin.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-05-06-Fedor-Ovchinnikov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-05-06-Fedor-Ovchinnikov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-05-13-Oleg-Novikov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-05-13-Oleg-Novikov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-05-20-Leonid-Ogorodnikov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-05-20-Leonid-Ogorodnikov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-05-27-Oliver-Hyuz.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-05-27-Oliver-Hyuz.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-06-03-Nikolay-Fomenko.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-06-03-Nikolay-Fomenko.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-06-10-Aras-Agalarov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-06-10-Aras-Agalarov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-06-18-Sergey-Matvienko.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-06-18-Sergey-Matvienko.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-06-24-Alla-Verber.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-06-24-Alla-Verber.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-07-01-Vadim-Lapin.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-07-01-Vadim-Lapin.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-07-08-Aleksey-Panferov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-07-08-Aleksey-Panferov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-07-15-Igor-Leytis.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-07-15-Igor-Leytis.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-07-23-Aram-Mnatsakanov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-07-23-Aram-Mnatsakanov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-07-29-Vadim-Finkelshteyn.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-07-29-Vadim-Finkelshteyn.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-08-02-Maksim-Ivanov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-08-02-Maksim-Ivanov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-09-09-Sergey-Polonskiy-1.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-09-09-Sergey-Polonskiy-1.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-09-17-Sergey-Polonskiy-2.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-09-17-Sergey-Polonskiy-2.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-09-23-Maksim-Nogotkov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-09-23-Maksim-Nogotkov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-10-01-Andreas-Ray.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-10-01-Andreas-Ray.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-10-07-Olga-Slutsker.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-10-07-Olga-Slutsker.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-10-21-Andrey-Danilenko.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-10-21-Andrey-Danilenko.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-10-29-Aleksey-Repik.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-10-29-Aleksey-Repik.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-11-05-Dmitriy-Malikov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-11-05-Dmitriy-Malikov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2011-12-09-Sergey-Petrov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2011-12-09-Sergey-Petrov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-01-20-Stephen-Jennings.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-01-20-Stephen-Jennings.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-01-27-Artem-Avetisyan.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-01-27-Artem-Avetisyan.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-02-03-Mihail-Prohorov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-02-03-Mihail-Prohorov.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-03-04-Sergey-Mavrodi.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-03-04-Sergey-Mavrodi.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-04-01-Maykl-Kalvi.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-04-01-Maykl-Kalvi.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-09-30-Anna-Znamenskaya.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-09-30-Anna-Znamenskaya.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-10-04-Boris-Yordan.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-10-04-Boris-Yordan.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-10-11-Vsevolod-Strah.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-10-11-Vsevolod-Strah.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-11-23-Dmitriy-Potapenko.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-11-23-Dmitriy-Potapenko.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2012-12-21-Aleksandr-Akopov.markdown" afterPath="$PROJECT_DIR$/source/_posts/2012-12-21-Aleksandr-Akopov.markdown" />
     </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,25 +72,25 @@
       <file leaf-file-name="rename.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../youtubemp3feed/rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="129" selection-start="3014" selection-end="3014" vertical-scroll-proportion="0.0">
+            <state line="77" column="61" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-07-08-Aleksey-Panferov.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2011-07-08-Aleksey-Panferov.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2011-07-08-Aleksey-Panferov.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="90" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.33333334">
+            <state line="15" column="5" selection-start="1255" selection-end="1260" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-10-14-Filip-Engelbert.markdown" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2011-10-14-Filip-Engelbert.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="55" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+            <state line="9" column="55" selection-start="228" selection-end="228" vertical-scroll-proportion="0.12820514">
               <folding />
             </state>
           </provider>
@@ -72,9 +114,9 @@
         <option value="$PROJECT_DIR$/../youtubemp3feed/markdown/2011-02-19-Artemiy-Lebedev.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2011-02-19-Artemiy-Lebedev.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/source/_posts/2011-07-08-Aleksey-Panferov.markdown" />
         <option value="$PROJECT_DIR$/../youtubemp3feed/rename.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -396,20 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="55" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../youtubemp3feed/rename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="129" selection-start="3014" selection-end="3014" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
@@ -419,7 +447,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2011-07-08-Aleksey-Panferov.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="90" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.33333334">
+        <state line="15" column="5" selection-start="1255" selection-end="1260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../youtubemp3feed/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="61" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2011-10-14-Filip-Engelbert.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="55" selection-start="228" selection-end="228" vertical-scroll-proportion="0.12820514">
           <folding />
         </state>
       </provider>

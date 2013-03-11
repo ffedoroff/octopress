@@ -25,7 +25,7 @@ id: "JjOCjrebCwU"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/JjOCjrebCwU/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/JjOCjrebCwU/default.jpg Бизнес-секреты: Михаил Прохоров %}
 http://tinkov.com/bizsekrety/136  
   
 Программа "Бизнес-секреты" в гостях у Михаила Прохорова.  

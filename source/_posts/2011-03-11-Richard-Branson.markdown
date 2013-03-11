@@ -25,7 +25,7 @@ id: "5H7FCbMEG3o"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/5H7FCbMEG3o/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/5H7FCbMEG3o/default.jpg Business Secrets: Richard Branson %}
 Interview with Richard Branson, the founder of Virgin, to Oleg Tinkov and Oleg Anisimov from first Russian online bank Tinkoff Credit Systems: http://www.tcsbank.ru/.  
 In English with Russian subtitles.  
 Ричард Брэнсон, Олег Тиньков, Олег Анисимов

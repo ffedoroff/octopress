@@ -25,7 +25,7 @@ id: "1JFSWUIHGAs"
 subtitles: "None"
 ---
 
-{% img left http://i2.ytimg.com/vi/1JFSWUIHGAs/default.jpg Place Kitten #2 %}
+{% img left http://i2.ytimg.com/vi/1JFSWUIHGAs/default.jpg Бизнес-секреты: Евгений Каценельсон %}
 Ресторатор Евгений Каценельсон в программе «Бизнес-секреты с Олегом Тиньковым» (24.04.2011).  
 Обсуждение программы: http://olegtinkov.livejournal.com/148...  
 Страница ВК: http://vkontakte.ru/bizsekrety  

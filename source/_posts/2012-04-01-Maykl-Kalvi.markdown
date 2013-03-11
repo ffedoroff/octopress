@@ -25,7 +25,7 @@ id: "REG3VadrGto"
 subtitles: "None"
 ---
 
-{% img left http://i3.ytimg.com/vi/REG3VadrGto/default.jpg Place Kitten #2 %}
+{% img left http://i3.ytimg.com/vi/REG3VadrGto/default.jpg Бизнес-секреты: Майкл Калви %}
 Майкл Калви, старший партнер Baring Vostok Group (BVCP)  в программе «Бизнес-секреты с Олегом Тиньковым» (01.04.2012)  
   
 Страница ВК: http://vk.com/bizsekrety  
