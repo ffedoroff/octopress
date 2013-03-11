@@ -1,0 +1,33 @@
+---
+layout: post
+comments: true
+date: 2012-11-23
+title: "Дмитрий Потапенко"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/044 Дмитрий Потапенко.m4a"
+description: "Второй выпуск \"Бизнес-секретов с Олегом Тиньковым\" на РБК-ТВ. В гостях - основатель Management Development Group Дмитрий Потапенко.\n\nhttp://vk.com/wall-23342771_39953\nhttp://www.facebook.com/BiZSekrety/po...\nhttps://plus.google.com/b/10190911169..."
+uploader_id: "BiZSekrety"
+format: "35 - 480x854"
+url: "http://r12---sn-n8v7lnez.c.youtube.com/videoplayback?ipbits=8&upn=FUNkAvUDBEo&expire=1362814318&sver=3&newshard=yes&source=youtube&itag=35&key=yt1&mv=m&burst=40&mt=1362793992&ip=92.255.182.31&fexp=904429%2C912507%2C904829%2C916807%2C916626%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C925006%2C906938%2C931202%2C931401%2C908529%2C930803%2C920201%2C930101%2C930603%2C906834%2C926403&ms=au&lowtc=yes&factor=1.25&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Clowtc%2Csource%2Cupn%2Cexpire&id=9359695fa5eff1ab&cp=U0hVR1hMUl9GUkNONV9QRlZEOlFfMmRrWXo2UENJ&algorithm=throttle-factor&signature=1CCD893F00206C64193C6A868AB6D58C1B02A3EC.1D38CC096E7C74849D64EDE0903ABD9F5BC5676E"
+number_in_playlist: "44"
+title: "Бизнес-секреты: Дмитрий Потапенко"
+short_title: "Дмитрий Потапенко"
+player_url: "None"
+thumbnail: "http://i4.ytimg.com/vi/k1lpX6Xv8as/default.jpg"
+ext: "flv"
+stitle: "Бизнес-секреты: Дмитрий Потапенко"
+uploader: "BiZSekrety"
+duration: "2099"
+upload_date: "20121123"
+id: "k1lpX6Xv8as"
+subtitles: "None"
+---
+
+{% img left http://i4.ytimg.com/vi/k1lpX6Xv8as/default.jpg Place Kitten #2 %}
+Второй выпуск "Бизнес-секретов с Олегом Тиньковым" на РБК-ТВ. В гостях - основатель Management Development Group Дмитрий Потапенко.  
+  
+http://vk.com/wall-23342771_39953  
+http://www.facebook.com/BiZSekrety/po...  
+https://plus.google.com/b/10190911169...

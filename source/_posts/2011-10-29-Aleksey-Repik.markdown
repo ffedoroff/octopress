@@ -1,0 +1,36 @@
+---
+layout: post
+comments: true
+date: 2011-10-29
+title: "Алексей Репик"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/040 Алексей Репик.m4a"
+description: "Алексей Репик, председатель совета директоров \"Р-Фарм\", в программе «Бизнес-секреты с Олегом Тиньковым» (30.10.2011).\n\nОбсуждение: http://tinkov.com/bizsekrety/n/121\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/bizsekrety\nХэштег в Твиттере: #bizsekrety\nКанал Youtube: http://www.youtube.com/bizsekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
+uploader_id: "BiZSekrety"
+format: "37 - 1080x1920"
+url: "http://r2---sn-n8v7lne6.c.youtube.com/videoplayback?upn=Lz67Oqt7Iw8&newshard=yes&id=8e97584d26cf53f0&ratebypass=yes&fexp=904429%2C912507%2C904829%2C916807%2C916626%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C925006%2C906938%2C931202%2C931401%2C908529%2C930803%2C920201%2C930101%2C930603%2C906834%2C926403&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Clowtc%2Cratebypass%2Csource%2Cupn%2Cexpire&cp=U0hVR1hMVF9JUUNONV9QRlhHOlBfMmRrWXo4U0ZI&ipbits=8&ms=au&sver=3&ip=92.255.182.31&key=yt1&itag=37&lowtc=yes&mv=m&expire=1362816647&source=youtube&mt=1362791952&signature=7EEC9BEFECECC74F4D0D7CA497F1DA763A271086.4316DB3986E1B7F109C7CDDF0CE9F116868435EA"
+number_in_playlist: "40"
+title: "Бизнес-секреты: Алексей Репик"
+short_title: "Алексей Репик"
+player_url: "None"
+thumbnail: "http://i3.ytimg.com/vi/jpdYTSbPU_A/default.jpg"
+ext: "mp4"
+stitle: "Бизнес-секреты: Алексей Репик"
+uploader: "BiZSekrety"
+duration: "3107"
+upload_date: "20111029"
+id: "jpdYTSbPU_A"
+subtitles: "None"
+---
+
+{% img left http://i3.ytimg.com/vi/jpdYTSbPU_A/default.jpg Place Kitten #2 %}
+Алексей Репик, председатель совета директоров "Р-Фарм", в программе «Бизнес-секреты с Олегом Тиньковым» (30.10.2011).  
+  
+Обсуждение: http://tinkov.com/bizsekrety/n/121  
+Страница ВК: http://vkontakte.ru/bizsekrety  
+Страница FB: http://www.facebook.com/bizsekrety  
+Хэштег в Твиттере: #bizsekrety  
+Канал Youtube: http://www.youtube.com/bizsekrety  
+Ведущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru

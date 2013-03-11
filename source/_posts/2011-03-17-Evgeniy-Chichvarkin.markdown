@@ -1,0 +1,33 @@
+---
+layout: post
+comments: true
+date: 2011-03-17
+title: "Евгений Чичваркин"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/011 Евгений Чичваркин.m4a"
+description: "Основатель \"Евросети\" Евгений Чичваркин в программе «Бизнес-секреты с Олегом Тиньковым» (27.03.2011).\nОбсуждение программы: http://olegtinkov.livejournal.com/148...\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/BiZSekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
+uploader_id: "BiZSekrety"
+format: "37 - 1080x1920"
+url: "http://r7---sn-25g7sm7l.c.youtube.com/videoplayback?cp=U0hVR1hRVV9GUkNONV9QS1lDOkFtbGNRa2g3dklF&ipbits=8&expire=1362867218&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&newshard=yes&ratebypass=yes&id=21d42b1a43ba18cf&upn=x-3FLVq96BI&fexp=920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C925006%2C906938%2C931202%2C931401%2C908529%2C930803%2C920201%2C930101%2C930603%2C906834&ms=au&mt=1362843736&mv=m&source=youtube&itag=37&sver=3&key=yt1&ip=92.255.182.31&signature=746E4EBD09DB487B4570F8C32F1D63C9345980EA.4E1AEDFD0472FC461112572D4591C25D95B046FD"
+number_in_playlist: "11"
+title: "Бизнес-секреты: Евгений Чичваркин"
+short_title: "Евгений Чичваркин"
+player_url: "None"
+thumbnail: "http://i2.ytimg.com/vi/IdQrGkO6GM8/default.jpg"
+ext: "mp4"
+stitle: "Бизнес-секреты: Евгений Чичваркин"
+uploader: "BiZSekrety"
+duration: "2579"
+upload_date: "20110317"
+id: "IdQrGkO6GM8"
+subtitles: "None"
+---
+
+{% img left http://i2.ytimg.com/vi/IdQrGkO6GM8/default.jpg Place Kitten #2 %}
+Основатель "Евросети" Евгений Чичваркин в программе «Бизнес-секреты с Олегом Тиньковым» (27.03.2011).  
+Обсуждение программы: http://olegtinkov.livejournal.com/148...  
+Страница ВК: http://vkontakte.ru/bizsekrety  
+Страница FB: http://www.facebook.com/BiZSekrety  
+Ведущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru

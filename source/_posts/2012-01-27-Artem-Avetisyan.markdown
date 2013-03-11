@@ -1,0 +1,36 @@
+---
+layout: post
+comments: true
+date: 2012-01-27
+title: "Артем Аветисян"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/030 Артем Аветисян.m4a"
+description: "Артем Аветисян, руководитель направления «Новый бизнес» в Агентстве стратегических инициатив, в программе «Бизнес-секреты с Олегом Тиньковым» (29.01.2012).\n\nОбсуждение: http://tinkov.com/bizsekrety/135\nСтраница ВК: http://vk.com/bizsekrety\nСтраница FB: http://www.facebook.com/bizsekrety\nХэштег в Твиттере: #bizsekrety\nКанал Youtube: http://www.youtube.com/bizsekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
+uploader_id: "BiZSekrety"
+format: "37 - 1080x1920"
+url: "http://r5---sn-25g7sm7s.c.youtube.com/videoplayback?ms=au&ratebypass=yes&ipbits=8&sver=3&mv=m&source=youtube&itag=37&mt=1362495074&newshard=yes&key=yt1&ip=92.255.182.31&upn=Lp51JntzEfE&cp=U0hVR1VMVV9JUUNONV9NRllKOnF4WGx5X3A3U3p6&expire=1362517947&fexp=916807%2C916623%2C920704%2C912806%2C902000%2C922403%2C922405%2C929901%2C913605%2C925006%2C906938%2C931202%2C908529%2C920201%2C930101%2C930603%2C906834%2C926403%2C913570%2C901451&id=b370423437beda93&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&signature=36488F24BBEA922A8CC302F369E0018CEC6BFD4D.3A024F018C077651A4598B5CE21EDDF8CB58DE00"
+number_in_playlist: "30"
+title: "Бизнес-секреты: Артем Аветисян"
+short_title: "Артем Аветисян"
+player_url: "None"
+thumbnail: "http://i4.ytimg.com/vi/s3BCNDe-2pM/default.jpg"
+ext: "mp4"
+stitle: "Бизнес-секреты: Артем Аветисян"
+uploader: "BiZSekrety"
+duration: "2986"
+upload_date: "20120127"
+id: "s3BCNDe-2pM"
+subtitles: "None"
+---
+
+{% img left http://i4.ytimg.com/vi/s3BCNDe-2pM/default.jpg Place Kitten #2 %}
+Артем Аветисян, руководитель направления «Новый бизнес» в Агентстве стратегических инициатив, в программе «Бизнес-секреты с Олегом Тиньковым» (29.01.2012).  
+  
+Обсуждение: http://tinkov.com/bizsekrety/135  
+Страница ВК: http://vk.com/bizsekrety  
+Страница FB: http://www.facebook.com/bizsekrety  
+Хэштег в Твиттере: #bizsekrety  
+Канал Youtube: http://www.youtube.com/bizsekrety  
+Ведущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru

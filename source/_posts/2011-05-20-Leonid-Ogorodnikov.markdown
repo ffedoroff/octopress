@@ -1,0 +1,33 @@
+---
+layout: post
+comments: true
+date: 2011-05-20
+title: "Леонид Огородников"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/031 Леонид Огородников.m4a"
+description: "Председатель совета директоров \"КАРО Фильм\" Леонид Огородников в программе «Бизнес-секреты с Олегом Тиньковым» (22.05.2011).\nОбсуждение программы: http://olegtinkov.livejournal.com\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/BiZSekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru   http://tinkov.com/bizsekrety"
+uploader_id: "BiZSekrety"
+format: "37 - 1080x1920"
+url: "http://r16---sn-25g7sm7k.c.youtube.com/videoplayback?itag=37&mv=m&mt=1362495134&ms=au&id=339ed9c9e0d78e8e&fexp=916807%2C916623%2C920704%2C912806%2C902000%2C922403%2C922405%2C929901%2C913605%2C925006%2C906938%2C931202%2C908529%2C920201%2C930101%2C930603%2C906834%2C926403%2C913570%2C901451&expire=1362515594&cp=U0hVR1VMU19OTkNONV9NRldGOm54WGx5X3A1T2V3&sver=3&ip=92.255.182.31&key=yt1&upn=w6E5G-8Z730&newshard=yes&source=youtube&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&ipbits=8&ratebypass=yes&signature=996A7B14FF64749A5BED86418F6613C96692259F.C849F61DB0A9AAC0EB891FA7C60287212AD3B262"
+number_in_playlist: "31"
+title: "Бизнес-секреты: Леонид Огородников"
+short_title: "Леонид Огородников"
+player_url: "None"
+thumbnail: "http://i2.ytimg.com/vi/M57ZyeDXjo4/default.jpg"
+ext: "mp4"
+stitle: "Бизнес-секреты: Леонид Огородников"
+uploader: "BiZSekrety"
+duration: "2362"
+upload_date: "20110520"
+id: "M57ZyeDXjo4"
+subtitles: "None"
+---
+
+{% img left http://i2.ytimg.com/vi/M57ZyeDXjo4/default.jpg Place Kitten #2 %}
+Председатель совета директоров "КАРО Фильм" Леонид Огородников в программе «Бизнес-секреты с Олегом Тиньковым» (22.05.2011).  
+Обсуждение программы: http://olegtinkov.livejournal.com  
+Страница ВК: http://vkontakte.ru/bizsekrety  
+Страница FB: http://www.facebook.com/BiZSekrety  
+Ведущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru   http://tinkov.com/bizsekrety

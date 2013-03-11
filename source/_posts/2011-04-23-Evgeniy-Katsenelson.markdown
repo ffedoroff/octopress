@@ -1,0 +1,33 @@
+---
+layout: post
+comments: true
+date: 2011-04-23
+title: "Евгений Каценельсон"
+categories:
+- Все выпуски
+extractor: "youtube"
+raw_audio: "Бизнес-секреты/013 Евгений Каценельсон.m4a"
+description: "Ресторатор Евгений Каценельсон в программе «Бизнес-секреты с Олегом Тиньковым» (24.04.2011).\nОбсуждение программы: http://olegtinkov.livejournal.com/148...\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/BiZSekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
+uploader_id: "BiZSekrety"
+format: "37 - 1080x1920"
+url: "http://r6---sn-25g7sm7d.c.youtube.com/videoplayback?ipbits=8&ratebypass=yes&expire=1362866887&sver=3&upn=XWOHEFrxqrI&source=youtube&itag=37&key=yt1&mt=1362843856&ip=92.255.182.31&mv=m&fexp=906377%2C900504%2C923119%2C916713%2C916626%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C925006%2C906938%2C931202%2C931401%2C908529%2C930803%2C920201%2C930101%2C930603%2C906834%2C926403&ms=au&newshard=yes&cp=U0hVR1hRVF9NUUNONV9QS1hJOk04RlpFTHJnS0l2&id=d49152594207180b&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&signature=8FB516CC26E60DA1EF13A5D3C4321FAD14BD32B7.3AE985DC145C1A935B7BA65F43FC7D8D1EB6774C"
+number_in_playlist: "13"
+title: "Бизнес-секреты: Евгений Каценельсон"
+short_title: "Евгений Каценельсон"
+player_url: "None"
+thumbnail: "http://i2.ytimg.com/vi/1JFSWUIHGAs/default.jpg"
+ext: "mp4"
+stitle: "Бизнес-секреты: Евгений Каценельсон"
+uploader: "BiZSekrety"
+duration: "2394"
+upload_date: "20110423"
+id: "1JFSWUIHGAs"
+subtitles: "None"
+---
+
+{% img left http://i2.ytimg.com/vi/1JFSWUIHGAs/default.jpg Place Kitten #2 %}
+Ресторатор Евгений Каценельсон в программе «Бизнес-секреты с Олегом Тиньковым» (24.04.2011).  
+Обсуждение программы: http://olegtinkov.livejournal.com/148...  
+Страница ВК: http://vkontakte.ru/bizsekrety  
+Страница FB: http://www.facebook.com/BiZSekrety  
+Ведущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru
