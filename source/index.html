@@ -12,11 +12,11 @@ layout: default
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Назад</a>
+      <a class="prev" href="{{paginator.next_page}}">&larr; Предыдущие выпуски</a>
     {% endif %}
     <a href="/blog/archives">список</a>
     {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Вперед &rarr;</a>
+    <a class="next" href="{{paginator.previous_page}}">Следующие выпуски &rarr;</a>
     {% endif %}
   </div>
 </div>
