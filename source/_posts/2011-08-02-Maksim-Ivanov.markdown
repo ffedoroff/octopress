@@ -8,7 +8,7 @@ categories:
 extractor: "youtube"
 raw_audio: "Бизнес-секреты/036 Максим Иванов.m4a"
 description: "Председатель совета директоров \"Фудлайн\" Максим Иванов в программе \"Бизнес-секреты с \"Олегом Тиньковым\" (07.08.2011).\n\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/bizsekrety\nХэштег в Твиттере: #bizsekrety\nКанал Youtube: http://www.youtube.com/bizsekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
-uploader_id: "BiZSekrety"
+uploader_yid: "BiZSekrety"
 format: "37 - 1080x1920"
 url: "http://r1---sn-25g7sm76.c.youtube.com/videoplayback?source=youtube&key=yt1&itag=37&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&ip=92.255.182.31&ratebypass=yes&ipbits=8&expire=1362528765&sver=3&newshard=yes&upn=Jm8CjoO0jFQ&cp=U0hVR1VNVl9LT0NONV9NR1pIOm94WGx5X3E4UWJ4&id=d3c8a371651d78b5&mt=1362504378&mv=m&ms=au&fexp=916807%2C916623%2C920704%2C912806%2C902000%2C922403%2C922405%2C929901%2C913605%2C925006%2C906938%2C931202%2C908529%2C920201%2C930101%2C930603%2C906834%2C926403%2C913570%2C901451&signature=B9B17B69404B4D3817102CEC6BF68C9EEDE716BB.61D4A5A49F7DAB951904DFA4CF30187185BAE9F2"
 number_in_playlist: "36"
@@ -21,7 +21,7 @@ stitle: "Бизнес-секреты: Максим Иванов"
 uploader: "BiZSekrety"
 duration: "1998"
 upload_date: "20110802"
-id: "08ijcWUdeLU"
+yid: "08ijcWUdeLU"
 subtitles: "None"
 ---
 

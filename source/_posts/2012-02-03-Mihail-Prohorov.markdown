@@ -8,7 +8,7 @@ categories:
 extractor: "youtube"
 raw_audio: "Бизнес-секреты/003 Михаил Прохоров.m4a"
 description: "http://tinkov.com/bizsekrety/136\n\nПрограмма \"Бизнес-секреты\" в гостях у Михаила Прохорова.\nОлег Тиньков и Олег Анисимов спрашивают кандидата в президенты про бизнес, политику и личную жизнь (05.02.2012).\n\nСтраница ВК: http://vk.com/bizsekrety\nСтраница FB: http://www.facebook.com/bizsekrety\nХэштег в Твиттере: #bizsekrety\nКанал Youtube: http://www.youtube.com/bizsekrety\n\nТоп-100 программ \"Бизнес-секреты\" за всю историю по числу просмотров: http://goo.gl/lA7lc."
-uploader_id: "BiZSekrety"
+uploader_yid: "BiZSekrety"
 format: "37 - 1080x1920"
 url: "http://r6---sn-25g7sm76.c.youtube.com/videoplayback?mt=1362841936&ip=92.255.182.31&fexp=923414%2C925005%2C913007%2C916612%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C925006%2C906938%2C931202%2C931401%2C908529%2C930803%2C920201%2C929602%2C930101%2C930603%2C906834&expire=1362866922&mv=m&newshard=yes&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&cp=U0hVR1hRVF9HTENONV9QS1hKOkphWDJZWGFxZGJT&upn=iyGrt-le1iw&ipbits=8&key=yt1&id=2633828eb79b0b05&sver=3&ratebypass=yes&source=youtube&ms=au&itag=37&signature=C532795CD14C44CD1D7D8A643943E104C942386C.94DA269518A0290FBE291918223BF903C2ECEDC9"
 number_in_playlist: "3"
@@ -21,7 +21,7 @@ stitle: "Бизнес-секреты: Михаил Прохоров"
 uploader: "BiZSekrety"
 duration: "2988"
 upload_date: "20120203"
-id: "JjOCjrebCwU"
+yid: "JjOCjrebCwU"
 subtitles: "None"
 ---
 

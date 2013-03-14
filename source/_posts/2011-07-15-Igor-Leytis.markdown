@@ -8,7 +8,7 @@ categories:
 extractor: "youtube"
 raw_audio: "Бизнес-секреты/023 Игорь Лейтис.m4a"
 description: "Игорь Лейтис в программе «Бизнес-секреты с Олегом Тиньковым» (17.07.2011).\n\nОбсуждение: http://tinkov.com/bizsekrety/101\n\nСтраница ВК: http://vkontakte.ru/bizsekrety\nСтраница FB: http://www.facebook.com/bizsekrety\nХэштег в Твиттере: #bizsekrety\nКанал Youtube: http://www.youtube.com/bizsekrety\nВедущие: Олег Тиньков и Олег Анисимов: http://www.tcsbank.ru"
-uploader_id: "BiZSekrety"
+uploader_yid: "BiZSekrety"
 format: "37 - 1080x1920"
 url: "http://r1---sn-25g7sm76.c.youtube.com/videoplayback?expire=1362355183&ms=au&itag=37&ratebypass=yes&source=youtube&mv=m&id=8f16154818873f09&key=yt1&upn=ETJVyyfLed8&sparams=cp%2Cid%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&ipbits=8&fexp=906376%2C904825%2C914058%2C913804%2C920704%2C912806%2C902000%2C922403%2C922405%2C929901%2C913605%2C925006%2C906938%2C931202%2C908529%2C920201%2C930101%2C906834%2C913570%2C901451&newshard=yes&sver=3&cp=U0hVR1NQU19NTUNONV9LSldCOjNmWWlSS2sxNURU&ip=92.255.182.31&mt=1362330974&signature=88F2A472CF56B8CC3129BE96C8605962DED7D903.509A13C514C8F26EFF6973B04246840DFC8D1A02"
 number_in_playlist: "23"
@@ -21,7 +21,7 @@ stitle: "Бизнес-секреты: Игорь Лейтис"
 uploader: "BiZSekrety"
 duration: "2650"
 upload_date: "20110715"
-id: "jxYVSBiHPwk"
+yid: "jxYVSBiHPwk"
 subtitles: "None"
 ---
 
