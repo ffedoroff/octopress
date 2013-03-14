@@ -25,9 +25,23 @@
   {% endif %}
 {% else %}
 <div class="entry-content">{{ content }}</div>
-<div class="source-details collapse">
-    <div class="show">подробнее</div>
-    <div class="hide">подробнее</div>
-    <div class="data">{{ page.description }}</div>
+
+<div class="source-details collapse">        
+<figure class="code">
+    <figcaption><div class="show">показать оригинальное описание с YouTube</div><div class="hide">свернуть</div></figcaption>
+    <div class="highlight data">
+        <table>
+            <tbody>
+            <tr>
+                <td class="gutter">
+                    <pre class="line-numbers"><span class="line-number"></span><span class="line-number"></span><span class="line-number"></span><span class="line-number"></span><span class="line-number"></span></pre>
+                </td>
+                <td class="code"><pre><code class="xml">{{ page.description }}</code></pre>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</figure>
 </div>
 {% endif %}

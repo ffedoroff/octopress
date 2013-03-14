@@ -1,5 +1,5 @@
 function addSourceDetailsToggler() {
-    $('.source-details').bind('click', function(e) {
+    $('.source-details .show, .source-details .hide').bind('click', function(e) {
         e.preventDefault();
         if ($('.source-details').hasClass('collapse')) {
             $('.source-details').removeClass('collapse');

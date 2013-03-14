@@ -34,7 +34,7 @@ task :install, :theme do |t, args|
     abort("rake aborted!") if ask("A theme is already installed, proceeding will overwrite existing files. Are you sure?", ['y', 'n']) == 'n'
   end
   # copy theme into working Jekyll directories
-  theme = args.theme || 'classic'
+  theme = args.theme || 'new-yourk'
   puts "## Copying "+theme+" theme into ./#{source_dir} and ./sass"
   mkdir_p source_dir
   cp_r "#{themes_dir}/#{theme}/source/.", source_dir
@@ -176,7 +176,7 @@ end
 
 desc "Move sass to sass.old, install sass theme updates, replace sass/custom with sass.old/custom"
 task :update_style, :theme do |t, args|
-  theme = args.theme || 'classic'
+  theme = args.theme || 'new-yourk'
   if File.directory?("sass.old")
     puts "removed existing sass.old directory"
     rm_r "sass.old", :secure=>true
@@ -190,7 +190,7 @@ end
 
 desc "Move source to source.old, install source theme updates, replace source/_includes/navigation.html with source.old's navigation"
 task :update_source, :theme do |t, args|
-  theme = args.theme || 'classic'
+  theme = args.theme || 'new-yourk'
   if File.directory?("#{source_dir}.old")
     puts "## Removed existing #{source_dir}.old directory"
     rm_r "#{source_dir}.old", :secure=>true
