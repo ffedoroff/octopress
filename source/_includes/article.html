@@ -36,7 +36,12 @@
         var as = audiojs.createAll();
     });
 </script>
-<audio src="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" preload="none"></audio>        
+<div class="audio-player">
+<audio src="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" preload="none"></audio>
+</div>
+<div class="download-audio">        
+<a href="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" target="_blank">скачать</a>
+</div>
 
 <h3>Смотреть</h3>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.yid }}?rel=0" frameborder="0" allowfullscreen></iframe>
