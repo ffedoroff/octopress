@@ -6,7 +6,7 @@ layout: nil
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
 <channel>
 
-  <title><![CDATA[{{ site.title }}]]></title>
+  <title><![CDATA[{{ site.title }} m4a]]></title>
   <link href="{{ site.url }}/atom.xml" rel="self"/>
   <link href="{{ site.url }}/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -48,16 +48,16 @@ layout: nil
 
   {% for post in site.posts limit: 100 %}
   <item>
-    <title type="html">{{ post.title | cdata_escape }}</title>
+    <title type="html">{{ post.title | cdata_escape }} m4a</title>
     <link>{{ site.url }}{{ post.url }}</link>
     <guid>{{ site.url }}{{ post.id }}</guid>
-    <updated>2013-01-03T00:00:00+07:00</updated>
+    <updated>2013-01-04T00:00:00+07:00</updated>
     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
     
-    <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+    <description><![CDATA[m4a {{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
     <author>Олег Тиньков</author>
-    <enclosure url="{{ site.url }}/audio/Бизнес-секреты/{{ post.short_title }}.mp3" type="audio/mpeg"/>
-    <media:content url="{{ site.url }}/audio/Бизнес-секреты/{{ post.short_title }}.mp3" type="audio/mpeg"/>
+    <enclosure url="{{ site.url }}/audio/Бизнес-секреты/{{ post.short_title }}.m4a" type="audio/mpeg"/>
+    <media:content url="{{ site.url }}/audio/Бизнес-секреты/{{ post.short_title }}.m4a" type="audio/mpeg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:subtitle>{{ post.title | cdata_escape }}</itunes:subtitle>
     <itunes:author>Oleg Tinkov</itunes:author>

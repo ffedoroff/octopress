@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://tinkov.linkentools2.com
+url: http://tinkov.linkentools.com
 title: Бизнес Секреты в MP3
 subtitle: Бизнес Секреты с Олегом Тиньковым - аудио подкаст из официального youtube канала
 author: Федоров Роман
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email: rfedorov@linkentools.com
+subscribe_email:
 # RSS feeds can list your email address if you like
 email: rfedorov@linkentools.com
 
@@ -58,7 +58,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: ffedoroff
+github_user: # ffedoroff
 github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
