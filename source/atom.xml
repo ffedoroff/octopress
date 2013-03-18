@@ -1,8 +1,10 @@
 ---
 layout: nil
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+<channel>
 
   <title><![CDATA[{{ site.title }}]]></title>
   <link href="{{ site.url }}/atom.xml" rel="self"/>
@@ -13,15 +15,47 @@ layout: nil
     <name><![CDATA[{{ site.author | strip_html }}]]></name>
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
-  {% for post in site.posts limit: 30 %}
-  <entry>
-    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+  <description/>
+  <media:copyright>
+    Creative Commons - Attribution, Noncommercial, No Derivative Works 3.0 License.
+  </media:copyright>
+  <media:thumbnail url="{{ site.url }}/images/tinkov.jpg"/>
+  <media:keywords>business,russian,radio</media:keywords>
+  <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+  <itunes:owner>
+    <itunes:email>{{ site.email }}</itunes:email>
+    <itunes:name>Олег Тиньков, {{site.author}}</itunes:name>
+  </itunes:owner>
+  <itunes:author>Олег Тиньков, {{site.author}}</itunes:author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="{{ site.url }}/images/tinkov.jpg"/>
+  <itunes:keywords>business,russian,radio</itunes:keywords>
+  <itunes:subtitle>{{ site.title }}</itunes:subtitle>
+  <itunes:summary>{{ site.title }}</itunes:summary>
+  <itunes:category text="Business">
+    <itunes:category text="Business News"/>
+  </itunes:category>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license>
+
+  {% for post in site.posts limit: 100 %}
+  <item>
+    <title type="html">{{ post.title | cdata_escape }}></title>
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
-  </entry>
+    <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+    <guid isPermaLink="false">{{ site.url }}{{ post.id }}</guid>
+    <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+    <author>Олег Тиньков</author>
+    <enclosure url="/audio/Бизнес-секреты/{{ post.short_title }}.mp3" length="75879621" type="audio/mpeg"/>
+    <media:content url="/audio/Бизнес-секреты/{{ post.short_title }}.mp3" fileSize="75879621" type="audio/mpeg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>{{ post.title | cdata_escape }}</itunes:subtitle>
+    <itunes:author>Oleg Tinkov</itunes:author>
+    <itunes:summary>{{ post.title | cdata_escape }}</itunes:summary>
+    <itunes:keywords>business,russian,radio,mp3,tinkov</itunes:keywords>
+  </item>
   {% endfor %}
-</feed>
+  
+</channel>
+</rss>
