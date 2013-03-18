@@ -12,3 +12,5 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+audio/*/*.mp3
+audio/*/*.m4a
