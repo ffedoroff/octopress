@@ -1,4 +1,6 @@
 # encoding: utf-8
+require 'open-uri'
+
 module Octopress
   module Date
     # Названия дней недели -- контекстные и отдельностоящие
@@ -22,6 +24,14 @@ module Octopress
         date = Time.parse(date)
       end
       date
+    end
+
+    def date_to_rfc822(date)
+      date.strftime("%a, %d %b %Y %H:%M:%S %z")
+    end
+
+    def url_encode(string)
+      URI::encode(string)
     end
 
     # Returns an ordidinal date eg July 22 2007 -> July 22nd 2007
