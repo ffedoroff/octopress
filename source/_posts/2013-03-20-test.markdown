@@ -70,7 +70,7 @@ String.prototype.translit = (function(){
 //            res += "echo \""+ts[i].replace(/\"/gi,"\\\"")+"\" >> "+filename + "\n";
          }
          
-         res += "wget " + "http://tinkov.com" + $(this).find("img2").attr("src") + " -O " + english_short_title + ".jpg\n"
+         res += "wget " + "http://tinkov.com" + $(this).find("a:eq(0)").attr("href") + " -O " + english_short_title + ".html\n"
                 
          //console.log(txt+"\n");
          
