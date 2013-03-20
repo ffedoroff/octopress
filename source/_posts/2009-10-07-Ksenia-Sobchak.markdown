@@ -4,7 +4,6 @@ comments: true
 categories:
 - Все выпуски
 description: "В гостях у Олега Тинькова человек, который обладает очень дорогим брендом. Персональным брендом - Ксения Собчак."
-number_in_playlist: "45"
 title: "Бизнес-секреты: Ксения Собчак"
 short_title: "Ксения Собчак"
 thumbnail: "http://tinkov.com/v/69/69.jpg"

@@ -31,7 +31,12 @@ module Octopress
     end
 
     def url_encode(string)
-      URI::encode(string)
+      if string.nil? || string.empty?
+        res = ""
+      else
+        res = URI::encode(string)
+      end
+      res
     end
 
     # Returns an ordidinal date eg July 22 2007 -> July 22nd 2007
