@@ -6,5 +6,7 @@ title: "Бизнес-секреты: Борис Ким"
 short_title: "Борис Ким"
 english_short_title: "Boris-Kim"
 source_link: "http://tinkov.com/bizsekrety/55"
+russia_id: "tinkoff_11175"
 date: "2010-11-01"
 ---
+Годовой оборот системы мгновенных платежей «QIWI» превышает 350 миллиардов рублей. Совладелец «QIWI» Борис Ким рассказал, как работает эта система.
