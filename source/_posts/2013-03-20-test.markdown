@@ -20,7 +20,7 @@ String.prototype.translit = (function(){
 'У':'U','у':'u','Ф':'F','ф':'f','Х':'Kh','х':'kh','Ц':'Ts','ц':'ts',
 'Ч':'Ch','ч':'ch','Ш':'Sh','ш':'sh','Щ':'Sch','щ':'sch','Ъ':'','ъ':'',
 'Ы':'Y','ы':'y','Ь':"",'ь':"",'Э':'E','э':'e','Ю':'Yu','ю':'yu',
-'Я':'Ya','я':'ya',' ':"-",".":"","?":"","!":""
+'Я':'Ya','я':'ya',' ':"-",".":"","?":"","!":"",",":""
         },
         r = '',
         k;
@@ -53,7 +53,7 @@ String.prototype.translit = (function(){
          var english_short_title = st.translit();
          txt += "english_short_title: \""+english_short_title+"\"\n";
          
-         txt += "thumbnail: \"http://tinkov.com" + $(this).find("img2").attr("src") + "\"\n";
+         //txt += "thumbnail: \"http://tinkov.com" + $(this).find("img2").attr("src") + "\"\n";
          txt += "source_link: \"http://tinkov.com" + $(this).find("a:eq(0)").attr("href") + "\"\n";
          
          var d = ($(this).text().split("\n")[3]).substring(4);
@@ -67,10 +67,10 @@ String.prototype.translit = (function(){
          ts = txt.split("\n");
          for (var i = 0; i < ts.length; i++) {
             //console.log("echo \""+ts[i].replace("\"","\\\"")+"\" >> "+filename);
-//            res += "echo \""+ts[i].replace(/\"/gi,"\\\"")+"\" >> "+filename + "\n";
+            res += "echo \""+ts[i].replace(/\"/gi,"\\\"")+"\" >> "+filename + "\n";
          }
          
-         res += "wget " + "http://tinkov.com" + $(this).find("a:eq(0)").attr("href") + " -O " + english_short_title + ".html\n"
+         //res += "wget " + "http://tinkov.com" + $(this).find("a:eq(0)").attr("href") + " -O " + english_short_title + ".html\n"
                 
          //console.log(txt+"\n");
          
@@ -438,7 +438,7 @@ test
 
  <div class="small_block">
 	<a href="/bizsekrety/103"><img2 src="/v/107/107.jpg" alt="" title=""></a>
-	<a href="/bizsekrety/103">Султанна  Французова</a><br>
+	<a href="/bizsekrety/103">Султанна Французова</a><br>
 	18.08.2011
 </div>
 
@@ -1033,7 +1033,7 @@ test
 
 <div class="small_block">
 	<a href="/bizsekrety/18"><img2 src="/v/53/53.jpg" alt="" title=""></a>
-	<a href="/bizsekrety/18">Глеб  Давидюк</a><br>
+	<a href="/bizsekrety/18">Глеб Давидюк</a><br>
 	01.02.2010
 </div>
 
@@ -1082,7 +1082,7 @@ test
 
  <div class="small_block">
 	<a href="/bizsekrety/11"><img2 src="/v/60/60.jpg" alt="" title=""></a>
-	<a href="/bizsekrety/11">Виктор  Ремша</a><br>
+	<a href="/bizsekrety/11">Виктор Ремша</a><br>
 	14.12.2009
 </div>
 

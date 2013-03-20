@@ -1,0 +1,10 @@
+---
+comments: true
+layout: post
+categories: "Все выпуски"
+title: "Бизнес-секреты: Борис Ким"
+short_title: "Борис Ким"
+english_short_title: "Boris-Kim"
+source_link: "http://tinkov.com/bizsekrety/55"
+date: "2010-11-01"
+---

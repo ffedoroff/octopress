@@ -1,0 +1,10 @@
+---
+comments: true
+layout: post
+categories: "Все выпуски"
+title: "Бизнес-секреты: Тимати"
+short_title: "Тимати"
+english_short_title: "Timati"
+source_link: "http://tinkov.com/bizsekrety/17"
+date: "2010-01-25"
+---

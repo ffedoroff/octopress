@@ -1,0 +1,10 @@
+---
+comments: true
+layout: post
+categories: "Все выпуски"
+title: "Бизнес-секреты: Давид Ян"
+short_title: "Давид Ян"
+english_short_title: "David-Yan"
+source_link: "http://tinkov.com/bizsekrety/31"
+date: "2010-04-26"
+---
