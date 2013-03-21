@@ -30,10 +30,6 @@ module Octopress
       date.strftime("%a, %d %b %Y %H:%M:%S %z")
     end
 
-    def date_to_shortdate(date)
-      date.strftime("%Y-%b-%d")
-    end
-
     def url_encode(string)
       if string.nil? || string.empty?
         res = ""

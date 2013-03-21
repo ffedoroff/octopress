@@ -26,23 +26,26 @@
 {% else %}
 
 
-<div class="entry-content">{{ content }}</div>
+<div class="entry-content">
+    <p><img class="left" src="{{ root_url }}/images/posts/{{ page.english_short_title }}.jpg" alt="{{ page.title }}" title="{{ page.title }}" /></p>    
+    {{ content }}
+</div>
 
 <h3>Слушать</h3>
 <!-- audio player -->
-<script src="/assets/audiojs/audio.min.js"></script>
+<script src="{{ root_url }}/assets/audiojs/audio.min.js"></script>
 <script>
     audiojs.events.ready(function() {
         var as = audiojs.createAll();
     });
 </script>
 <div class="audio-player">
-<audio src="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" preload="none"></audio>
+<audio src="{{ root_url }}/audio/Biznes-sekrety/{{ page.english_short_title }}.mp3" preload="none"></audio>
 </div>
 <div class="download-audio">
 cкачать    
-<a href="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" target="_blank" title="mp3">mp3</a> или 
-<a href="/audio/Бизнес-секреты/{{ page.short_title }}.m4a" target="_blank" title="m4a без пережатия (лучшее качество)">оригинал</a>
+<a href="{{ root_url }}/audio/Biznes-sekrety/{{ page.english_short_title }}.mp3" target="_blank" title="mp3">mp3</a> или 
+<a href="{{ root_url }}/audio/Biznes-sekrety/{{ page.english_short_title }}.m4a" target="_blank" title="m4a без пережатия (лучшее качество)">оригинал</a>
 </div>
 
 <h3>Смотреть</h3>
@@ -56,6 +59,6 @@ cкачать
 <h3>Исправить</h3>        
 <div>
 Вы можете помочь проекту и дополнить или поменять описание выпуска на
-<a href="https://github.com/ffedoroff/octopress/tree/tinkov/source/_posts/{{ page.date | date_to_shortdate }}-{{ page.english_short_title }}.markdown" target="_blank">этой странице</a>.
+<a href="https://github.com/ffedoroff/octopress/edit/tinkov/source/_posts/{{ page.date_publication }}-{{ page.english_short_title }}.markdown" target="_blank">этой странице</a>.
 </div>    
 {% endif %}
