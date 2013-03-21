@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Игорь Ашманов"
 short_title: "Игорь Ашманов"
 english_short_title: "Igor-Ashmanov"

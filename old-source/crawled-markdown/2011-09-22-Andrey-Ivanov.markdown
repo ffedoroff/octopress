@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Андрей Иванов"
 short_title: "Андрей Иванов"
 english_short_title: "Andrey-Ivanov"

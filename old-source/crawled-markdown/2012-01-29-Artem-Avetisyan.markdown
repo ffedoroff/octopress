@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Артем Аветисян"
 short_title: "Артем Аветисян"
 english_short_title: "Artem-Avetisyan"

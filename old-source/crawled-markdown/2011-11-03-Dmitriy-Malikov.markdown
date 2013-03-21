@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Дмитрий Маликов"
 short_title: "Дмитрий Маликов"
 english_short_title: "Dmitriy-Malikov"

@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: В каких валютах лучше хранить сбережения в России?"
 short_title: "В каких валютах лучше хранить сбережения в России?"
 english_short_title: "V-kakikh-valyutakh-luchshe-khranit-sberezheniya-v-Rossii"

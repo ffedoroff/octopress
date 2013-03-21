@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Арас Агаларов"
 short_title: "Арас Агаларов"
 english_short_title: "Aras-Agalarov"

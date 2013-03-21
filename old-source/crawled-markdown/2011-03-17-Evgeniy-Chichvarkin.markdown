@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Евгений Чичваркин"
 short_title: "Евгений Чичваркин"
 english_short_title: "Evgeniy-Chichvarkin"

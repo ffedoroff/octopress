@@ -67,10 +67,11 @@ String.prototype.translit = (function(){
          ts = txt.split("\n");
          for (var i = 0; i < ts.length; i++) {
             //console.log("echo \""+ts[i].replace("\"","\\\"")+"\" >> "+filename);
-            res += "echo \""+ts[i].replace(/\"/gi,"\\\"")+"\" >> "+filename + "\n";
+            //res += "echo \""+ts[i].replace(/\"/gi,"\\\"")+"\" >> "+filename + "\n";
          }
          
          //res += "wget " + "http://tinkov.com" + $(this).find("a:eq(0)").attr("href") + " -O " + english_short_title + ".html\n"
+         res += "mv \"" + st + ".m4a\" " + english_short_title + ".m4a\n"
                 
          //console.log(txt+"\n");
          
@@ -396,7 +397,7 @@ test
 
  <div class="small_block">
 	<a href="/bizsekrety/109"><img2 src="/v/113/113.jpg" alt="" title=""></a>
-	<a href="/bizsekrety/109">Сергей Полонский</a><br>
+	<a href="/bizsekrety/109">Сергей Полонский 2</a><br>
 	18.09.2011
 </div>
 
@@ -410,7 +411,7 @@ test
 
  <div class="small_block">
 	<a href="/bizsekrety/107"><img2 src="/v/111/111.jpg" alt="" title=""></a>
-	<a href="/bizsekrety/107">Сергей Полонский</a><br>
+	<a href="/bizsekrety/107">Сергей Полонский 1</a><br>
 	09.09.2011
 </div>
 

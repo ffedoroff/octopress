@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Тони Хейес"
 short_title: "Тони Хейес"
 english_short_title: "Toni-Kheyes"

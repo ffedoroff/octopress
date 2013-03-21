@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Аркадий Дворкович"
 short_title: "Аркадий Дворкович"
 english_short_title: "Arkadiy-Dvorkovich"

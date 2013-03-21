@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Михаил Куснирович"
 short_title: "Михаил Куснирович"
 english_short_title: "Mikhail-Kusnirovich"

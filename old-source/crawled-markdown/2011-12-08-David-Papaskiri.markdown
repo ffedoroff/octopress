@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Давид Папаскири"
 short_title: "Давид Папаскири"
 english_short_title: "David-Papaskiri"

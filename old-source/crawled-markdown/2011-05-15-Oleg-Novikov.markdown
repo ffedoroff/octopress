@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Олег Новиков"
 short_title: "Олег Новиков"
 english_short_title: "Oleg-Novikov"

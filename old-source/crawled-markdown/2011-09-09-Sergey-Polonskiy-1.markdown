@@ -1,13 +1,14 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Сергей Полонский"
 short_title: "Сергей Полонский"
-english_short_title: "Sergey-Polonskiy"
-source_link: "http://tinkov.com/bizsekrety/109"
+english_short_title: "Sergey-Polonskiy-1"
+source_link: "http://tinkov.com/bizsekrety/107"
 youtube_id: "kj7BIqHYUj8"
-date: "2011-09-18"
+date: "2011-09-09"
 ---
 Сергей Полонский, владелец компании Nazvanie.net.
 Родился 1 декабря 1972 года в Ленинграде. В 1994 году основал компанию «Строймонтаж» вместе с Артуром Кириленко. В 2000-х годах вышел на московский рынок и сосредоточился на компании Mirax Group, которая реализовала ряд амбициозных проектов и пострадала в ходе кризиса 2008 года. Сергей Полонский продолжает заниматься девелопментом в рамках компании Nazvanie.net.

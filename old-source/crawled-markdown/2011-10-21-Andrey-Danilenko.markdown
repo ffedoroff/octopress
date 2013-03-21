@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Андрей Даниленко"
 short_title: "Андрей Даниленко"
 english_short_title: "Andrey-Danilenko"

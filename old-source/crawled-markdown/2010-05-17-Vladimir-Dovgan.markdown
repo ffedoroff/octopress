@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Владимир Довгань"
 short_title: "Владимир Довгань"
 english_short_title: "Vladimir-Dovgan"

@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Игорь Лейтис"
 short_title: "Игорь Лейтис"
 english_short_title: "Igor-Leytis"

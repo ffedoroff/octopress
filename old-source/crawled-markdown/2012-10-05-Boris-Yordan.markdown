@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Борис Йордан"
 short_title: "Борис Йордан"
 english_short_title: "Boris-Yordan"

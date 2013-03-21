@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Максим Иванов"
 short_title: "Максим Иванов"
 english_short_title: "Maksim-Ivanov"

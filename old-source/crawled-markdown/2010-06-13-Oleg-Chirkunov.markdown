@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Олег Чиркунов"
 short_title: "Олег Чиркунов"
 english_short_title: "Oleg-Chirkunov"

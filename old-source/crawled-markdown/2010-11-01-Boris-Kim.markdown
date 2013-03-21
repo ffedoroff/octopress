@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Борис Ким"
 short_title: "Борис Ким"
 english_short_title: "Boris-Kim"

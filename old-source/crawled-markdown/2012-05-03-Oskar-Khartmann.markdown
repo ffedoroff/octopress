@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Оскар Хартманн"
 short_title: "Оскар Хартманн"
 english_short_title: "Oskar-Khartmann"

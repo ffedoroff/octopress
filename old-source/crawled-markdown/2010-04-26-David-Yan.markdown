@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Давид Ян"
 short_title: "Давид Ян"
 english_short_title: "David-Yan"

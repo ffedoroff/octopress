@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Егор Уваров"
 short_title: "Егор Уваров"
 english_short_title: "Egor-Uvarov"

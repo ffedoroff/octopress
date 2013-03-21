@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Сергей Матвиенко"
 short_title: "Сергей Матвиенко"
 english_short_title: "Sergey-Matvienko"

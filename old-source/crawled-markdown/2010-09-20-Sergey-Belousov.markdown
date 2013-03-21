@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Сергей Белоусов"
 short_title: "Сергей Белоусов"
 english_short_title: "Sergey-Belousov"

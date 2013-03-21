@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Сергей Мавроди"
 short_title: "Сергей Мавроди"
 english_short_title: "Sergey-Mavrodi"

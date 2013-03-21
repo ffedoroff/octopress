@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Ксения Собчак"
 short_title: "Ксения Собчак"
 english_short_title: "Kseniya-Sobchak"

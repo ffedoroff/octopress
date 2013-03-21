@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Кирилл Гусев"
 short_title: "Кирилл Гусев"
 english_short_title: "Kirill-Gusev"

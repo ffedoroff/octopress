@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Лев Хасис"
 short_title: "Лев Хасис"
 english_short_title: "Lev-Khasis"

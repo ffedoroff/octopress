@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Вячеслав Трактовенко"
 short_title: "Вячеслав Трактовенко"
 english_short_title: "Vyacheslav-Traktovenko"

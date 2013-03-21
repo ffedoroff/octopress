@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Максим Каширин"
 short_title: "Максим Каширин"
 english_short_title: "Maksim-Kashirin"

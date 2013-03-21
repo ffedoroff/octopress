@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Василий Мунтян"
 short_title: "Василий Мунтян"
 english_short_title: "Vasiliy-Muntyan"

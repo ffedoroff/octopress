@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Евгений Лашков"
 short_title: "Евгений Лашков"
 english_short_title: "Evgeniy-Lashkov"

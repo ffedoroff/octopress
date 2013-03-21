@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Султанна Французова"
 short_title: "Султанна Французова"
 english_short_title: "Sultanna-Frantsuzova"

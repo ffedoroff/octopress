@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Александр Невский"
 short_title: "Александр Невский"
 english_short_title: "Aleksandr-Nevskiy"

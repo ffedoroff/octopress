@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Юлия Евдокимова"
 short_title: "Юлия Евдокимова"
 english_short_title: "Yuliya-Evdokimova"

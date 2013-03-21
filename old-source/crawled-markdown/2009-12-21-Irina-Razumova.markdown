@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Ирина Разумова"
 short_title: "Ирина Разумова"
 english_short_title: "Irina-Razumova"

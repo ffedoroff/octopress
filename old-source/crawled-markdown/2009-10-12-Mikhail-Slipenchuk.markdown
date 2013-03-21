@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Михаил Слипенчук"
 short_title: "Михаил Слипенчук"
 english_short_title: "Mikhail-Slipenchuk"

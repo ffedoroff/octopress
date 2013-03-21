@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Филипп Энгельберт"
 short_title: "Филипп Энгельберт"
 english_short_title: "Filipp-Engelbert"

@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Ростислав Ордовский"
 short_title: "Ростислав Ордовский"
 english_short_title: "Rostislav-Ordovskiy"

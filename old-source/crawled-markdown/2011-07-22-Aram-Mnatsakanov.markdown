@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Арам Мнацаканов"
 short_title: "Арам Мнацаканов"
 english_short_title: "Aram-Mnatsakanov"

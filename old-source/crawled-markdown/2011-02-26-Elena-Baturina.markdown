@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Елена Батурина"
 short_title: "Елена Батурина"
 english_short_title: "Elena-Baturina"

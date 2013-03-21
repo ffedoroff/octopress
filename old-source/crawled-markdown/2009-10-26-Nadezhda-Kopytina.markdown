@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Надежда Копытина"
 short_title: "Надежда Копытина"
 english_short_title: "Nadezhda-Kopytina"

@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Александр Крынский"
 short_title: "Александр Крынский"
 english_short_title: "Aleksandr-Krynskiy"

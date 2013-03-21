@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Игорь Стоянов"
 short_title: "Игорь Стоянов"
 english_short_title: "Igor-Stoyanov"

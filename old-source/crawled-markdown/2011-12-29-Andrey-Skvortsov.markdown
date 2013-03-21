@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Андрей Скворцов"
 short_title: "Андрей Скворцов"
 english_short_title: "Andrey-Skvortsov"

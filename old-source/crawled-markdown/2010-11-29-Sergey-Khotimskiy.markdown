@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Сергей Хотимский"
 short_title: "Сергей Хотимский"
 english_short_title: "Sergey-Khotimskiy"

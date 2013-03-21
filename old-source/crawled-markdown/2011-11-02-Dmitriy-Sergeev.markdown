@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Дмитрий Сергеев"
 short_title: "Дмитрий Сергеев"
 english_short_title: "Dmitriy-Sergeev"

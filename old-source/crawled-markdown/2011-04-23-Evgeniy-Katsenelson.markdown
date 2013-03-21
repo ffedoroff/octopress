@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Евгений Каценельсон"
 short_title: "Евгений Каценельсон"
 english_short_title: "Evgeniy-Katsenelson"

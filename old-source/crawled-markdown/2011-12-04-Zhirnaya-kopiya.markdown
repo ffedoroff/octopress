@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Жирная копия"
 short_title: "Жирная копия"
 english_short_title: "Zhirnaya-kopiya"

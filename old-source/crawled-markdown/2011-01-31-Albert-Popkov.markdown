@@ -1,7 +1,8 @@
 ---
 comments: true
 layout: post
-categories: "Все выпуски"
+categories:
+-Все выпуски
 title: "Бизнес-секреты: Альберт Попков"
 short_title: "Альберт Попков"
 english_short_title: "Albert-Popkov"
