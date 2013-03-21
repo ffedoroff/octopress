@@ -1,0 +1,14 @@
+---
+comments: true
+layout: post
+categories:
+- Все выпуски
+- Бизнес Секреты
+title: "Бизнес-секреты: Тимати"
+short_title: "Тимати"
+english_short_title: "Timati"
+source_link: "http://tinkov.com/bizsekrety/17"
+russia_id: "tinkov_9679"
+date_publication: "2010-01-25"
+---
+Как Тимати достиг успеха? Что было сделано, чтобы превратить имя в успешный бренд? В гостях у Олега Тинькова кумир молодежи рассказал, чем занимается помимо музыки и как зарабатывает деньги.

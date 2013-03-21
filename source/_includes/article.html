@@ -16,6 +16,7 @@
   </header>
 {% endunless %}
 {% if index %}
+  <p><img class="left" src="{{ root_url }}/images/posts/{{ post.english_short_title }}.jpg" alt="{{ page.title }}" title="{{ page.title }}" /></p>
   <div class="entry-content">{{ content | excerpt }}</div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   {% if excerpted == 'true' %}
@@ -27,7 +28,7 @@
 
 
 <div class="entry-content">
-    <p><img class="left" src="{{ root_url }}/images/posts/{{ page.english_short_title }}.jpg" alt="{{ page.title }}" title="{{ page.title }}" /></p>    
+    <p><img class="left" src="{{ root_url }}/images/posts/{{ post.english_short_title }}.jpg" alt="{{ page.title }}" title="{{ page.title }}" /></p>    
     {{ content }}
 </div>
 
@@ -56,6 +57,9 @@ cкачать
 <embed name="playerblog" src="http://www.russia.ru/player/main.swf?103" flashvars="name={{ page.russia_id }}&from=blog&blog=true" width="560" height="315" bgcolor="#000000" allowScriptAccess="always" allowFullScreen="true"></embed>
 {% endif %}
 
+<h3>Источник</h3>
+Оригинальный источник: <a href="{{ page.source_link }}" target="_blank">{{ page.source_link }}</a>
+        
 <h3>Исправить</h3>        
 <div>
 Вы можете помочь проекту и дополнить или поменять описание выпуска на

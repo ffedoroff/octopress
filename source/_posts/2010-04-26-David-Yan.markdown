@@ -1,0 +1,14 @@
+---
+comments: true
+layout: post
+categories:
+- Все выпуски
+- Бизнес Секреты
+title: "Бизнес-секреты: Давид Ян"
+short_title: "Давид Ян"
+english_short_title: "David-Yan"
+source_link: "http://tinkov.com/bizsekrety/31"
+russia_id: "tinkov_10237"
+date_publication: "2010-04-26"
+---
+Один из самых известных и успешных IT-предпринимателей в России – Давид Ян, создатель Abbyy Lingvо, Abbyy Fine Reader и многих других известных продуктов рассказывает о своей компании, делится секретами ведения IT-бизнеса. Какие программные продукты ждут пользователей в будущем?

@@ -3,7 +3,7 @@
 }
 #blog-archives {
   article {
-    padding: 1em 0 1em;
+    padding: 0.7em 0 1em;
     position: relative;
     background: $img-border bottom left repeat-x;
     &:last-child {
@@ -35,6 +35,14 @@
     .month, .day { display: inline-block; }
     .month { text-transform: uppercase; }
   }
+  img.archive {
+    position: absolute;
+    width: 74px;
+    overflow: hidden;
+    border-style: none;
+    left:  0px;
+    top: 2.2em;
+  }
   p { margin-bottom: 1em; }
   &, .entry-content { a { @include link-colors(inherit, $link-color-hover); }}
   a:hover { color: $link-color-hover; }
@@ -46,17 +54,17 @@
       display: inline-block;
       position: relative; top: -1px;
       float: left;
-      &:first-child { padding-top: .75em; }
+      &:first-child { padding-top: .55em; }
     }
     time {
       position: absolute;
       text-align: right;
       left: 0em;
-      top: 1.8em;
+      top: 1em;
     }
     .year { display: none; }
     article {
-      padding:{left: 4.5em; bottom: .7em;}
+      padding:{left: 4.7em; bottom: .8em;}
     }
   a.category {
     line-height: 1.1em;
