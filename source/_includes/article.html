@@ -41,18 +41,21 @@
 </div>
 <div class="download-audio">
 cкачать    
-<a href="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" target="_blank" title="192kb">mp3</a> или 
+<a href="/audio/Бизнес-секреты/{{ page.short_title }}.mp3" target="_blank" title="mp3">mp3</a> или 
 <a href="/audio/Бизнес-секреты/{{ page.short_title }}.m4a" target="_blank" title="m4a без пережатия (лучшее качество)">оригинал</a>
 </div>
 
 <h3>Смотреть</h3>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.yid }}?rel=0" frameborder="0" allowfullscreen></iframe>
+{% if page.youtube_id %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe>
+{% endif %}
+{% if page.russia_id %}        
+<embed name="playerblog" src="http://www.russia.ru/player/main.swf?103" flashvars="name={{ page.russia_id }}&from=blog&blog=true" width="560" height="315" bgcolor="#000000" allowScriptAccess="always" allowFullScreen="true"></embed>
+{% endif %}
 
-<h3>Описание с YouTube</h3>
-{% codeblock %}
-{{ page.description }}
-{% endcodeblock %}        
-
+<h3>Исправить</h3>        
+<div>
 Вы можете помочь проекту и дополнить или поменять описание выпуска на
-<a href="https://github.com/ffedoroff/octopress/tree/tinkov/source/_posts" target="_blank">этой странице</a>.       
+<a href="https://github.com/ffedoroff/octopress/tree/tinkov/source/_posts/{{ page.date | date_to_shortdate }}-{{ page.english_short_title }}.markdown" target="_blank">этой странице</a>.
+</div>    
 {% endif %}
