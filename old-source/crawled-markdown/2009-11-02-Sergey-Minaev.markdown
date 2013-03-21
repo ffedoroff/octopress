@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Сергей Минаев"
 short_title: "Сергей Минаев"
 english_short_title: "Sergey-Minaev"

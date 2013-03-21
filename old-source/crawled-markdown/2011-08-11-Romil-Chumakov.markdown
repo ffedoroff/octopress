@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ромил Чумаков"
 short_title: "Ромил Чумаков"
 english_short_title: "Romil-Chumakov"

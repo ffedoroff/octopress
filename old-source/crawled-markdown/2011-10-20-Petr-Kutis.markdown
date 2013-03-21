@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Петр Кутис"
 short_title: "Петр Кутис"
 english_short_title: "Petr-Kutis"

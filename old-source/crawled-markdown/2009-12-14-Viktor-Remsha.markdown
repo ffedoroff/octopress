@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Виктор  Ремша"
 short_title: "Виктор  Ремша"
 english_short_title: "Viktor--Remsha"

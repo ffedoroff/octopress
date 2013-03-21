@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Антон Алексеев"
 short_title: "Антон Алексеев"
 english_short_title: "Anton-Alekseev"

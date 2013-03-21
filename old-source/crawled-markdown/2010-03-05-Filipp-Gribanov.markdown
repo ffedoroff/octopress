@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Филипп Грибанов"
 short_title: "Филипп Грибанов"
 english_short_title: "Filipp-Gribanov"

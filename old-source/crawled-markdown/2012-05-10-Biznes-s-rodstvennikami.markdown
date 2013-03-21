@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Бизнес с родственниками"
 short_title: "Бизнес с родственниками"
 english_short_title: "Biznes-s-rodstvennikami"

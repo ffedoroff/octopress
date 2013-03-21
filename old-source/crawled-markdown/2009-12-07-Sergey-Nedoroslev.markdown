@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Сергей Недорослев"
 short_title: "Сергей Недорослев"
 english_short_title: "Sergey-Nedoroslev"

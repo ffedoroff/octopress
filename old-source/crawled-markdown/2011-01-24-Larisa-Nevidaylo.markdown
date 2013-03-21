@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Лариса Невидайло"
 short_title: "Лариса Невидайло"
 english_short_title: "Larisa-Nevidaylo"

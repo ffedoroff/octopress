@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Стивен Дженнингс"
 short_title: "Стивен Дженнингс"
 english_short_title: "Stiven-Dzhennings"

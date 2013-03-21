@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Давид Якобашвили"
 short_title: "Давид Якобашвили"
 english_short_title: "David-Yakobashvili"

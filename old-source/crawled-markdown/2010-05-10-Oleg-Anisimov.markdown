@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Олег Анисимов"
 short_title: "Олег Анисимов"
 english_short_title: "Oleg-Anisimov"

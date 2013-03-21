@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Андрей Коркунов"
 short_title: "Андрей Коркунов"
 english_short_title: "Andrey-Korkunov"

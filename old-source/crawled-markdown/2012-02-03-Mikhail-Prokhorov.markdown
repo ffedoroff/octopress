@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Михаил Прохоров"
 short_title: "Михаил Прохоров"
 english_short_title: "Mikhail-Prokhorov"

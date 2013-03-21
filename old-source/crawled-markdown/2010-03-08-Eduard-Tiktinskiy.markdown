@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Эдуард Тиктинский"
 short_title: "Эдуард Тиктинский"
 english_short_title: "Eduard-Tiktinskiy"

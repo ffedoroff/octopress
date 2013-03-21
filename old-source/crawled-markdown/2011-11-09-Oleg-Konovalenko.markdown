@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Олег Коноваленко"
 short_title: "Олег Коноваленко"
 english_short_title: "Oleg-Konovalenko"

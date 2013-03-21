@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Александр Егоров"
 short_title: "Александр Егоров"
 english_short_title: "Aleksandr-Egorov"

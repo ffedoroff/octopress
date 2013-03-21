@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Андреас Рай"
 short_title: "Андреас Рай"
 english_short_title: "Andreas-Ray"

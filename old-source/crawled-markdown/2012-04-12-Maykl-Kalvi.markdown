@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Майкл Калви"
 short_title: "Майкл Калви"
 english_short_title: "Maykl-Kalvi"

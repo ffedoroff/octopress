@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Александр Кравцов"
 short_title: "Александр Кравцов"
 english_short_title: "Aleksandr-Kravtsov"

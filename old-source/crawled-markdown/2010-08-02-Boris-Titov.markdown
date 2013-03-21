@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Борис Титов"
 short_title: "Борис Титов"
 english_short_title: "Boris-Titov"

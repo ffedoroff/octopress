@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Анна Сахара"
 short_title: "Анна Сахара"
 english_short_title: "Anna-Sakhara"

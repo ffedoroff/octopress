@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ги Лалиберте"
 short_title: "Ги Лалиберте"
 english_short_title: "Guy-Laliberte"

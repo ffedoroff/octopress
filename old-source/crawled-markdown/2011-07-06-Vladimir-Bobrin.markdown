@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Владимир Бобрин"
 short_title: "Владимир Бобрин"
 english_short_title: "Vladimir-Bobrin"

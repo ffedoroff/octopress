@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Олег Леонов"
 short_title: "Олег Леонов"
 english_short_title: "Oleg-Leonov"

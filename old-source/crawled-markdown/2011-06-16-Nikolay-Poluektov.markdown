@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Николай Полуэктов"
 short_title: "Николай Полуэктов"
 english_short_title: "Nikolay-Poluektov"

@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Евгений Касперский"
 short_title: "Евгений Касперский"
 english_short_title: "Evgeniy-Kasperskiy"

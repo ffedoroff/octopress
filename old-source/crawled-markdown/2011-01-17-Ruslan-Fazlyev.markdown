@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Руслан Фазлыев"
 short_title: "Руслан Фазлыев"
 english_short_title: "Ruslan-Fazlyev"

@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Олег Бойко"
 short_title: "Олег Бойко"
 english_short_title: "Oleg-Boyko"

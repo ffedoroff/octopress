@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Федор Овчинников"
 short_title: "Федор Овчинников"
 english_short_title: "Fedor-Ovchinnikov"

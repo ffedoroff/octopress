@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ричард Брэнсон"
 short_title: "Ричард Брэнсон"
 english_short_title: "Richard-Branson"

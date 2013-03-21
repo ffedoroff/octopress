@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Оливер Хьюз"
 short_title: "Оливер Хьюз"
 english_short_title: "Oliver-Khyuz"

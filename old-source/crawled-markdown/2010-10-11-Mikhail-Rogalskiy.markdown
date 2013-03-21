@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Михаил Рогальский"
 short_title: "Михаил Рогальский"
 english_short_title: "Mikhail-Rogalskiy"

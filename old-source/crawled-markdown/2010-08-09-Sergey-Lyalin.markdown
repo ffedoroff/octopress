@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Сергей Лялин"
 short_title: "Сергей Лялин"
 english_short_title: "Sergey-Lyalin"

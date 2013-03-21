@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Сергей Рыжиков"
 short_title: "Сергей Рыжиков"
 english_short_title: "Sergey-Ryzhikov"

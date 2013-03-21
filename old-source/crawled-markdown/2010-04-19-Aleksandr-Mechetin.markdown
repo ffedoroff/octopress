@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Александр Мечетин"
 short_title: "Александр Мечетин"
 english_short_title: "Aleksandr-Mechetin"

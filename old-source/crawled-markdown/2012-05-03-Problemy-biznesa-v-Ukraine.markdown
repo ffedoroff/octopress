@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Проблемы бизнеса в Украине"
 short_title: "Проблемы бизнеса в Украине"
 english_short_title: "Problemy-biznesa-v-Ukraine"

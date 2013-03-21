@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Алла Вербер"
 short_title: "Алла Вербер"
 english_short_title: "Alla-Verber"

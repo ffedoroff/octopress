@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Александр Капитонов"
 short_title: "Александр Капитонов"
 english_short_title: "Aleksandr-Kapitonov"

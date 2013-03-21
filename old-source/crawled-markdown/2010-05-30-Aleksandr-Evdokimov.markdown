@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Александр Евдокимов"
 short_title: "Александр Евдокимов"
 english_short_title: "Aleksandr-Evdokimov"

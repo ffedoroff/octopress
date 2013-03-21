@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Дмитрий Потапенко"
 short_title: "Дмитрий Потапенко"
 english_short_title: "Dmitriy-Potapenko"

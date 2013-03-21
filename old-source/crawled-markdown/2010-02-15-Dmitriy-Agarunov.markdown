@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Дмитрий Агарунов"
 short_title: "Дмитрий Агарунов"
 english_short_title: "Dmitriy-Agarunov"

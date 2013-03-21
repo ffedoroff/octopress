@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ренат Хамидулин"
 short_title: "Ренат Хамидулин"
 english_short_title: "Renat-Khamidulin"

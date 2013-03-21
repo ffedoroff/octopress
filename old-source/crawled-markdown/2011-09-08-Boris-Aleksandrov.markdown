@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Борис Александров"
 short_title: "Борис Александров"
 english_short_title: "Boris-Aleksandrov"

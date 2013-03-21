@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Курсы маркетинга в Беркли"
 short_title: "Курсы маркетинга в Беркли"
 english_short_title: "Kursy-marketinga-v-Berkli"

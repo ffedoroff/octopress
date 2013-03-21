@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Артемий Троицкий"
 short_title: "Артемий Троицкий"
 english_short_title: "Artemiy-Troitskiy"

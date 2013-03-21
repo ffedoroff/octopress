@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Артемий Лебедев"
 short_title: "Артемий Лебедев"
 english_short_title: "Artemiy-Lebedev"

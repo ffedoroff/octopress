@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Вадим Финкельштейн"
 short_title: "Вадим Финкельштейн"
 english_short_title: "Vadim-Finkelshteyn"

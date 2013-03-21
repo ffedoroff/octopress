@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Евгений Демин"
 short_title: "Евгений Демин"
 english_short_title: "Evgeniy-Demin"

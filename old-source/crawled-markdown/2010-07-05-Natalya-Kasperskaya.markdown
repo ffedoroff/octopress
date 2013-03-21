@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Наталья Касперская"
 short_title: "Наталья Касперская"
 english_short_title: "Natalya-Kasperskaya"

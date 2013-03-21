@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Николай Заярный"
 short_title: "Николай Заярный"
 english_short_title: "Nikolay-Zayarnyy"

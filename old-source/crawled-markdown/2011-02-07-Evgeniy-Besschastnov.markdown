@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Евгений Бессчастнов"
 short_title: "Евгений Бессчастнов"
 english_short_title: "Evgeniy-Besschastnov"

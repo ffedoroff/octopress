@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Рубен Варданян"
 short_title: "Рубен Варданян"
 english_short_title: "Ruben-Vardanyan"

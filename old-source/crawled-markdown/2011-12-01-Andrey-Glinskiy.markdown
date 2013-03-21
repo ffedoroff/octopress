@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Андрей Глинский"
 short_title: "Андрей Глинский"
 english_short_title: "Andrey-Glinskiy"

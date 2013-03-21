@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Галицкий Сергей"
 short_title: "Галицкий Сергей"
 english_short_title: "Galitskiy-Sergey"

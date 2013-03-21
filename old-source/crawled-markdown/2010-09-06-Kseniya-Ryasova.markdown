@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ксения Рясова"
 short_title: "Ксения Рясова"
 english_short_title: "Kseniya-Ryasova"

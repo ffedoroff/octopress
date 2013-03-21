@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Вадим Беляев"
 short_title: "Вадим Беляев"
 english_short_title: "Vadim-Belyaev"

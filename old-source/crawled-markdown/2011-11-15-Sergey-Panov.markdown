@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Сергей Панов"
 short_title: "Сергей Панов"
 english_short_title: "Sergey-Panov"

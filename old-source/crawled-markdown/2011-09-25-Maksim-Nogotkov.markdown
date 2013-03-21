@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Максим Ноготков"
 short_title: "Максим Ноготков"
 english_short_title: "Maksim-Nogotkov"

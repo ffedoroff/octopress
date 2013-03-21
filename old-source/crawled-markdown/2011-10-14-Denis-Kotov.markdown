@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Денис Котов"
 short_title: "Денис Котов"
 english_short_title: "Denis-Kotov"

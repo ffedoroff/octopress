@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Олег Тиньков"
 short_title: "Олег Тиньков"
 english_short_title: "Oleg-Tinkov"

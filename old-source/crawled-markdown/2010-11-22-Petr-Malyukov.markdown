@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Петр Малюков"
 short_title: "Петр Малюков"
 english_short_title: "Petr-Malyukov"

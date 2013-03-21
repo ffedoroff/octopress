@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Вадим Лапин"
 short_title: "Вадим Лапин"
 english_short_title: "Vadim-Lapin"

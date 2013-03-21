@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Николай Фоменко"
 short_title: "Николай Фоменко"
 english_short_title: "Nikolay-Fomenko"

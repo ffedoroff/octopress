@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Наталья Матвеева"
 short_title: "Наталья Матвеева"
 english_short_title: "Natalya-Matveeva"

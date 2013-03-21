@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Всеволод Страх"
 short_title: "Всеволод Страх"
 english_short_title: "Vsevolod-Strakh"

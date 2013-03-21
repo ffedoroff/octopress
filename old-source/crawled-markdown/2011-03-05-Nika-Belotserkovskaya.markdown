@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Ника Белоцерковская"
 short_title: "Ника Белоцерковская"
 english_short_title: "Nika-Belotserkovskaya"

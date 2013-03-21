@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Алексей Комиссаров"
 short_title: "Алексей Комиссаров"
 english_short_title: "Aleksey-Komissarov"

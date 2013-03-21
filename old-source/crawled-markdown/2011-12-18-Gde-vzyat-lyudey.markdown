@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Где взять людей?"
 short_title: "Где взять людей?"
 english_short_title: "Gde-vzyat-lyudey"

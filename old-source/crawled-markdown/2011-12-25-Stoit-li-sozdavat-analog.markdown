@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Стоит ли создавать аналог?"
 short_title: "Стоит ли создавать аналог?"
 english_short_title: "Stoit-li-sozdavat-analog"

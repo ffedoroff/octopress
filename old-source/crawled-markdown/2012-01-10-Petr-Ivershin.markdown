@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Петр Ивершин"
 short_title: "Петр Ивершин"
 english_short_title: "Petr-Ivershin"

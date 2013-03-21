@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Леонид Шутов"
 short_title: "Леонид Шутов"
 english_short_title: "Leonid-Shutov"

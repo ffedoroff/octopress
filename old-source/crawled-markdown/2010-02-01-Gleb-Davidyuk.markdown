@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Глеб Давидюк"
 short_title: "Глеб Давидюк"
 english_short_title: "Gleb-Davidyuk"

@@ -2,7 +2,7 @@
 comments: true
 layout: post
 categories:
--Все выпуски
+- Все выпуски
 title: "Бизнес-секреты: Алексей Панферов"
 short_title: "Алексей Панферов"
 english_short_title: "Aleksey-Panferov"
