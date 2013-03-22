@@ -1,0 +1,11 @@
+---
+layout: nil
+---
+
+{% for post in site.posts %}{% if post.youtube_id == 1 %}
+if [ ! -f {{ post.english_short_title }}.mp3 ];
+then
+    echo python youtube-dl -x -c -w -k -o "{{ post.english_short_title }}.mp4" http://www.youtube.com/watch?v={{ post.youtube_id }}
+fi
+{% endif %}{% if post.russia_id %}
+wget -O "{{ post.english_short_title }}.mp4" http://87.242.118.102/{{ post.russia_id | sbstring }}/iphone/{{ post.russia_id }}.mp4?download=true{% endif %}{% endfor %}
