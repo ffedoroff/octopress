@@ -32,7 +32,7 @@ layout: nil
   <itunes:explicit>no</itunes:explicit>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license>
 
-  {% for post in site.posts limit: 30 %}
+  {% for post in site.posts limit: 200 %}
   <item>
     <title>{{ post.title | cdata_escape }}</title>
     <link>{{ site.url }}{{ post.url }}</link>
