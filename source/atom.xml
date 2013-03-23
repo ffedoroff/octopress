@@ -19,9 +19,9 @@ layout: nil
   <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
   <itunes:owner>
     <itunes:email>{{ site.email }}</itunes:email>
-    <itunes:name>Олег Тиньков, {{site.author}}</itunes:name>
+    <itunes:name>Олег Тиньков</itunes:name>
   </itunes:owner>
-  <itunes:author>Олег Тиньков, {{site.author}}</itunes:author>
+  <itunes:author>Олег Тиньков</itunes:author>
   <itunes:image href="{{ site.url }}/images/tinkov.jpg"/>
   <itunes:keywords>business,russian,radio</itunes:keywords>
   <itunes:subtitle>{{ site.title }}</itunes:subtitle>

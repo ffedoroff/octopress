@@ -12,5 +12,5 @@ source_link: "http://tinkov.com/bizsekrety/OTvet/1"
 date_publication: "2011-11-11"
 youtube_id: "wvAV7YMhOH0"
 ---
-ОТвет №1 — Бизнес, не бросая работу
+Вопрос №1 — Бизнес, не бросая работу
 Стоит ли вкладывать деньги в свой бизнес, имея основную работу?

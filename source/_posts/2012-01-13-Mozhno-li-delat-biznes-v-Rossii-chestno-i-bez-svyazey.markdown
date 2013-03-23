@@ -12,6 +12,6 @@ source_link: "http://tinkov.com/bizsekrety/OTvet/7"
 youtube_id: "zfkp8xDFVc0"
 date_publication: "2012-01-13"
 ---
-ОТвет №7 — Честный бизнес
+Вопрос №7 — Честный бизнес
 Можно ли делать бизнес в России честно и без связей?
 
