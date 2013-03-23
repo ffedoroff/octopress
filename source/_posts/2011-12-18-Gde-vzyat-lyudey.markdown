@@ -4,6 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
+- Вопросы
 title: "Вопрос 5: Где взять людей?"
 short_title: "Где взять людей?"
 english_short_title: "Gde-vzyat-lyudey"
