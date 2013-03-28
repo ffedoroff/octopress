@@ -2,6 +2,7 @@
 layout: nil
 ---
 User-agent: *
-Disallow: 
+Allow: /
+Disallow: /audio/
 
 Sitemap: {{ site.url }}/sitemap.xml 
