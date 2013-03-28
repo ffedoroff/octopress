@@ -32,22 +32,32 @@
   time {
     font-size: .9em;
     line-height: 1.2em;
+    clear:both;
+    display:block;
     .month, .day { display: inline-block; }
     .month { text-transform: uppercase; }
   }
   img.archive {
-    position: absolute;
-    width: 74px;
+    width: 8em;
     overflow: hidden;
     border-style: none;
     left:  0px;
     top: 2.2em;
+    clear:both;
   }
   p { margin-bottom: 1em; }
   &, .entry-content { a { @include link-colors(inherit, $link-color-hover); }}
   a:hover { color: $link-color-hover; }
   @media only screen and (min-width: 550px) {
     article { margin-left: 5em; }
+    img.archive {
+      position: absolute;
+      width: 4.2em;
+      overflow: hidden;
+      border-style: none;
+      left:  0px;
+      top: 2.2em;
+    }
     h2 {
       margin-bottom: .3em;
       font-weight: normal;

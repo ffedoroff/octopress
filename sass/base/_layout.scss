@@ -98,9 +98,11 @@ body {
 
   h3 { margin: 1em 0em 0.9em 0em; clear: both; }
   .audio-player {  float: left;  padding-right: 1em; }
-  .download-audio { 
-    height: 36px; 
-    a {line-height: 45px;}
+  .download-audio {
+    height: 2.5em;
+    white-space: nowrap;
+    float: left;
+    a {line-height: 2.4em;}
   }
 }
 
