@@ -2,10 +2,12 @@
   <header>
     {% if index %}
       <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
+      {% if post.title != post.short_title %}<div class="subtitle">{{ post.short_title }}</div>{% endif %}
     {% else %}
       <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+      {% if page.title != page.short_title %}<div class="subtitle">{{ page.short_title }}</div>{% endif %}
     {% endif %}
-    {% if page.title == page.short_title %}<div class="subtitle">{{ page.short_title }}</div>{% endif %}
+    
     {% unless page.meta == false %}
       <p class="meta">
         {% include post/date.html %}{{ time }}

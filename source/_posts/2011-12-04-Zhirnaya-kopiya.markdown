@@ -6,7 +6,7 @@ categories:
 - Бизнес Секреты
 - Вопросы
 title: "Вопрос 4: Жирная копия"
-short_title: "Жирная копия"
+short_title: "Вопрос 4: Жирная копия"
 english_short_title: "Zhirnaya-kopiya"
 source_link: "http://tinkov.com/bizsekrety/OTvet/4"
 date_publication: "2011-12-04"

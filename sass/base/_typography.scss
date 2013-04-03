@@ -26,6 +26,18 @@ body > header h2 {
   font-family: $header-subtitle-font-family;
 }
 
+header .subtitle {
+  font-family: $header-subtitle-font-family;
+  color: #667;
+}
+
+#blog-archives .subtitle {
+  font-family: $header-subtitle-font-family;
+  color: #667;
+  display: block;
+  font-size: 0.6em;
+}
+
 body {
   line-height: 1.5em;
   color: $text-color;

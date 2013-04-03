@@ -4,8 +4,8 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Дмитрий Потапенко (помогает управлять магазину \"Пятерочка\" и другим)"
-short_title: "Дмитрий Потапенко"
+title: "Дмитрий Потапенко"
+short_title: "помогает управлять магазину \"Пятерочка\" и не только"
 english_short_title: "Dmitriy-Potapenko"
 source_link: "http://tinkov.com/bizsekrety/10012"
 youtube_id: "k1lpX6Xv8as"

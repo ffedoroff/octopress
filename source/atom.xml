@@ -34,7 +34,7 @@ layout: nil
 
   {% for post in site.posts limit: 200 %}
   <item>
-    <title>{{ post.title | cdata_escape }}{% if post.title == post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</title>
+    <title>{{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</title>
     <link>{{ site.url }}{{ post.url }}</link>
     <guid>{{ site.url }}{{ post.id }}</guid>
     <pubDate>{{ post.date | date_to_rfc822  }}</pubDate>    
@@ -42,9 +42,9 @@ layout: nil
     <author>roma@linkentools.com (Oleg Tinkov by Roman Fedorov)</author>
     <enclosure url="{{ site.url }}/audio/Biznes-sekrety/{{ post.english_short_title }}.mp3" length="58834985" type="audio/mpeg"/>
     <media:content url="{{ site.url }}/audio/Biznes-sekrety/{{ post.english_short_title }}.mp3" fileSize="58834985" type="audio/mpeg"/>
-    <itunes:subtitle>{{ post.title | cdata_escape }}</itunes:subtitle>
+    <itunes:subtitle>{{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</itunes:subtitle>
     <itunes:author>Oleg Tinkov</itunes:author>
-    <itunes:summary>{{ post.title | cdata_escape }}</itunes:summary>
+    <itunes:summary>{{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</itunes:summary>
     <itunes:keywords>business,russian,radio,mp3,tinkov</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
   </item>

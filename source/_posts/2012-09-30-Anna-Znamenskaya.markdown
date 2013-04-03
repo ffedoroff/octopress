@@ -5,13 +5,15 @@ categories:
 - Все выпуски
 - Бизнес Секреты
 title: "Анна Знаменская"
-short_title: "Анна Знаменская"
+short_title: "создатель ivi.ru и workingmama.ru"
 english_short_title: "Anna-Znamenskaya"
 source_link: "http://tinkov.com/bizsekrety/140"
 youtube_id: "qtvp-DrTVn8"
 date_publication: "2012-09-30"
 ---
-Создатель ivi.ru и Workingmama.ru, коммерческий директор «Рамблер Интернет Холдинг>>, генеральный директор Tinkoff Digital Анна Знаменская.
+Создатель ivi.ru и Workingmama.ru, коммерческий директор «Рамблер Интернет Холдинг, генеральный директор Tinkoff Digital Анна Знаменская.
+Отличный выпуск.
+Советую так-же выпуск из [рунетологии](http://runetologia.podfm.ru/145/)
 <!--more-->
 Официальное описание:
 Программа записана 25 сентября 2012 года на презентации нового продукта http://www.tcsbank.ru/debit.
