@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Михаил Иванов"
+title: "Михаил Иванов"
 short_title: "Михаил Иванов"
 english_short_title: "Mikhail-Ivanov"
 source_link: "http://tinkov.com/bizsekrety/44"

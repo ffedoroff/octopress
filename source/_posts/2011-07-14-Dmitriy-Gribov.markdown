@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Дмитрий Грибов"
+title: "Дмитрий Грибов"
 short_title: "Дмитрий Грибов"
 english_short_title: "Dmitriy-Gribov"
 source_link: "http://tinkov.com/bizsekrety/96"

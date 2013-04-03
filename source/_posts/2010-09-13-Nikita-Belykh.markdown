@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Никита Белых"
+title: "Никита Белых"
 short_title: "Никита Белых"
 english_short_title: "Nikita-Belykh"
 source_link: "http://tinkov.com/bizsekrety/48"

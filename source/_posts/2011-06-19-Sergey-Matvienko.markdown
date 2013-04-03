@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Матвиенко"
+title: "Сергей Матвиенко"
 short_title: "Сергей Матвиенко"
 english_short_title: "Sergey-Matvienko"
 source_link: "http://tinkov.com/bizsekrety/89"

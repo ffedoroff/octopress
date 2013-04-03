@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Давид Папаскири"
+title: "Давид Папаскири"
 short_title: "Давид Папаскири"
 english_short_title: "David-Papaskiri"
 source_link: "http://tinkov.com/bizsekrety/128"

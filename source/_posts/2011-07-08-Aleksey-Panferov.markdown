@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Алексей Панферов"
+title: "Алексей Панферов"
 short_title: "Алексей Панферов"
 english_short_title: "Aleksey-Panferov"
 source_link: "http://tinkov.com/bizsekrety/95"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Аркадий Дворкович"
+title: "Аркадий Дворкович"
 short_title: "Аркадий Дворкович"
 english_short_title: "Arkadiy-Dvorkovich"
 source_link: "http://tinkov.com/bizsekrety/64"

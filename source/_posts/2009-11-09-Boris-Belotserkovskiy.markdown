@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Борис Белоцерковский"
+title: "Борис Белоцерковский"
 short_title: "Борис Белоцерковский"
 english_short_title: "Boris-Belotserkovskiy"
 source_link: "http://tinkov.com/bizsekrety/6"

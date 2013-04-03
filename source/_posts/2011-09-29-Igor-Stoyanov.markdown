@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Игорь Стоянов"
+title: "Игорь Стоянов"
 short_title: "Игорь Стоянов"
 english_short_title: "Igor-Stoyanov"
 source_link: "http://tinkov.com/bizsekrety/112"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Леонов"
+title: "Олег Леонов"
 short_title: "Олег Леонов"
 english_short_title: "Oleg-Leonov"
 source_link: "http://tinkov.com/bizsekrety/24"

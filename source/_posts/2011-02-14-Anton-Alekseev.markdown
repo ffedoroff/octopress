@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Антон Алексеев"
+title: "Антон Алексеев"
 short_title: "Антон Алексеев"
 english_short_title: "Anton-Alekseev"
 source_link: "http://tinkov.com/bizsekrety/69"

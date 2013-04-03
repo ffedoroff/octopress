@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Лялин"
+title: "Сергей Лялин"
 short_title: "Сергей Лялин"
 english_short_title: "Sergey-Lyalin"
 source_link: "http://tinkov.com/bizsekrety/46"

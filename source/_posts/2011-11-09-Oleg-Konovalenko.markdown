@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Коноваленко"
+title: "Олег Коноваленко"
 short_title: "Олег Коноваленко"
 english_short_title: "Oleg-Konovalenko"
 source_link: "http://tinkov.com/bizsekrety/124"

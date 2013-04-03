@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ксения Рясова"
+title: "Ксения Рясова"
 short_title: "Ксения Рясова"
 english_short_title: "Kseniya-Ryasova"
 source_link: "http://tinkov.com/bizsekrety/47"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Филипп Ильин-Адаев"
+title: "Филипп Ильин-Адаев"
 short_title: "Филипп Ильин-Адаев"
 english_short_title: "Filipp-Ilin-Adaev"
 source_link: "http://tinkov.com/bizsekrety/28"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Юлия Евдокимова"
+title: "Юлия Евдокимова"
 short_title: "Юлия Евдокимова"
 english_short_title: "Yuliya-Evdokimova"
 source_link: "http://tinkov.com/bizsekrety/98"

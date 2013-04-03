@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Рыжиков"
+title: "Сергей Рыжиков"
 short_title: "Сергей Рыжиков"
 english_short_title: "Sergey-Ryzhikov"
 source_link: "http://tinkov.com/bizsekrety/108"

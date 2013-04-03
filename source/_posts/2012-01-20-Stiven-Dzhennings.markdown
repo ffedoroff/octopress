@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Стивен Дженнингс"
+title: "Стивен Дженнингс"
 short_title: "Стивен Дженнингс"
 english_short_title: "Stiven-Dzhennings"
 source_link: "http://tinkov.com/bizsekrety/134"

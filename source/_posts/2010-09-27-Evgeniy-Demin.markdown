@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Демин"
+title: "Евгений Демин"
 short_title: "Евгений Демин"
 english_short_title: "Evgeniy-Demin"
 source_link: "http://tinkov.com/bizsekrety/50"

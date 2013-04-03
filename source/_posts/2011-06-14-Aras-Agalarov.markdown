@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Арас Агаларов"
+title: "Арас Агаларов"
 short_title: "Арас Агаларов"
 english_short_title: "Aras-Agalarov"
 source_link: "http://tinkov.com/bizsekrety/87"

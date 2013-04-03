@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Николай Заярный"
+title: "Николай Заярный"
 short_title: "Николай Заярный"
 english_short_title: "Nikolay-Zayarnyy"
 source_link: "http://tinkov.com/bizsekrety/130"

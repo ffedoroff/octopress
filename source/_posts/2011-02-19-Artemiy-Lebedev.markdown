@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Артемий Лебедев"
+title: "Артемий Лебедев"
 short_title: "Артемий Лебедев"
 english_short_title: "Artemiy-Lebedev"
 source_link: "http://tinkov.com/bizsekrety/70"

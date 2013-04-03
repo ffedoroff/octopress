@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Анна Знаменская"
+title: "Анна Знаменская"
 short_title: "Анна Знаменская"
 english_short_title: "Anna-Znamenskaya"
 source_link: "http://tinkov.com/bizsekrety/140"

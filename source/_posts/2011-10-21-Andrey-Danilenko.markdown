@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Андрей Даниленко"
+title: "Андрей Даниленко"
 short_title: "Андрей Даниленко"
 english_short_title: "Andrey-Danilenko"
 source_link: "http://tinkov.com/bizsekrety/119"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ирина Разумова"
+title: "Ирина Разумова"
 short_title: "Ирина Разумова"
 english_short_title: "Irina-Razumova"
 source_link: "http://tinkov.com/bizsekrety/12"

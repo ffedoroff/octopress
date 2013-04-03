@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Алла Вербер"
+title: "Алла Вербер"
 short_title: "Алла Вербер"
 english_short_title: "Alla-Verber"
 source_link: "http://tinkov.com/bizsekrety/91"

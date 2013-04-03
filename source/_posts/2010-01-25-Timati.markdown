@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Тимати"
+title: "Тимати"
 short_title: "Тимати"
 english_short_title: "Timati"
 source_link: "http://tinkov.com/bizsekrety/17"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Евдокимов"
+title: "Александр Евдокимов"
 short_title: "Александр Евдокимов"
 english_short_title: "Aleksandr-Evdokimov"
 source_link: "http://tinkov.com/bizsekrety/36"

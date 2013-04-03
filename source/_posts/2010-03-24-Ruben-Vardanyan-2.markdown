@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Рубен Варданян (2)"
+title: "Рубен Варданян (2)"
 short_title: "Рубен Варданян"
 english_short_title: "Ruben-Vardanyan-2"
 source_link: "http://tinkov.com/bizsekrety/26"

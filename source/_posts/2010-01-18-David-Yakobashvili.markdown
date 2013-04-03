@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Давид Якобашвили"
+title: "Давид Якобашвили"
 short_title: "Давид Якобашвили"
 english_short_title: "David-Yakobashvili"
 source_link: "http://tinkov.com/bizsekrety/16"

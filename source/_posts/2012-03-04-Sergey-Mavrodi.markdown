@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Мавроди"
+title: "Сергей Мавроди"
 short_title: "Сергей Мавроди"
 english_short_title: "Sergey-Mavrodi"
 source_link: "http://tinkov.com/bizsekrety/137"

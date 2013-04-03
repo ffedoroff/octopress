@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ренат Хамидулин"
+title: "Ренат Хамидулин"
 short_title: "Ренат Хамидулин"
 english_short_title: "Renat-Khamidulin"
 source_link: "http://tinkov.com/bizsekrety/25"

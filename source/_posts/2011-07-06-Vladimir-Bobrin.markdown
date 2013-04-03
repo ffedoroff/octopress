@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Владимир Бобрин"
+title: "Владимир Бобрин"
 short_title: "Владимир Бобрин"
 english_short_title: "Vladimir-Bobrin"
 source_link: "http://tinkov.com/bizsekrety/94"

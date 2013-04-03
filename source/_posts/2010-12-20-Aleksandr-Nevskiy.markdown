@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Невский"
+title: "Александр Невский"
 short_title: "Александр Невский"
 english_short_title: "Aleksandr-Nevskiy"
 source_link: "http://tinkov.com/bizsekrety/62"

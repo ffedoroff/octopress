@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Кирилл Андросов"
+title: "Кирилл Андросов"
 short_title: "Кирилл Андросов"
 english_short_title: "Kirill-Androsov"
 source_link: "http://tinkov.com/bizsekrety/75"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Артём Агабеков"
+title: "Артём Агабеков"
 short_title: "Артём Агабеков"
 english_short_title: "Artyom-Agabekov"
 source_link: "http://tinkov.com/bizsekrety/57"

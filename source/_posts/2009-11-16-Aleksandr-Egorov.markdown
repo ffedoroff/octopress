@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Егоров"
+title: "Александр Егоров"
 short_title: "Александр Егоров"
 english_short_title: "Aleksandr-Egorov"
 source_link: "http://tinkov.com/bizsekrety/7"

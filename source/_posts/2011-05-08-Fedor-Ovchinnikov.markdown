@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Федор Овчинников"
+title: "Федор Овчинников"
 short_title: "Федор Овчинников"
 english_short_title: "Fedor-Ovchinnikov"
 source_link: "http://tinkov.com/bizsekrety/81"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Артем Аветисян"
+title: "Артем Аветисян"
 short_title: "Артем Аветисян"
 english_short_title: "Artem-Avetisyan"
 source_link: "http://tinkov.com/bizsekrety/135"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Жеребцов"
+title: "Олег Жеребцов"
 short_title: "Олег Жеребцов"
 english_short_title: "Oleg-Zherebtsov"
 source_link: "http://tinkov.com/bizsekrety/9"

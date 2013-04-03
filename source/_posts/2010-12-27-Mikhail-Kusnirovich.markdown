@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Михаил Куснирович"
+title: "Михаил Куснирович"
 short_title: "Михаил Куснирович"
 english_short_title: "Mikhail-Kusnirovich"
 source_link: "http://tinkov.com/bizsekrety/63"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Вадим Беляев"
+title: "Вадим Беляев"
 short_title: "Вадим Беляев"
 english_short_title: "Vadim-Belyaev"
 source_link: "http://tinkov.com/bizsekrety/51"

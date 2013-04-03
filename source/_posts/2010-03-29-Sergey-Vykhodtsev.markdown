@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Выходцев"
+title: "Сергей Выходцев"
 short_title: "Сергей Выходцев"
 english_short_title: "Sergey-Vykhodtsev"
 source_link: "http://tinkov.com/bizsekrety/27"

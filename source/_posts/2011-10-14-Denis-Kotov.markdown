@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Денис Котов"
+title: "Денис Котов"
 short_title: "Денис Котов"
 english_short_title: "Denis-Kotov"
 source_link: "http://tinkov.com/bizsekrety/116"

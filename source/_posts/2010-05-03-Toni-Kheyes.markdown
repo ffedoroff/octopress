@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Тони Хейес"
+title: "Тони Хейес"
 short_title: "Тони Хейес"
 english_short_title: "Toni-Kheyes"
 source_link: "http://tinkov.com/bizsekrety/32"

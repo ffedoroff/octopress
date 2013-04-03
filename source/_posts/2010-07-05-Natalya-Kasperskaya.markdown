@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Наталья Касперская"
+title: "Наталья Касперская"
 short_title: "Наталья Касперская"
 english_short_title: "Natalya-Kasperskaya"
 source_link: "http://tinkov.com/bizsekrety/41"

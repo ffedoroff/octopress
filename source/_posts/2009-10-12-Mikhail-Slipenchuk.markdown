@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Михаил Слипенчук"
+title: "Михаил Слипенчук"
 short_title: "Михаил Слипенчук"
 english_short_title: "Mikhail-Slipenchuk"
 source_link: "http://tinkov.com/bizsekrety/2"

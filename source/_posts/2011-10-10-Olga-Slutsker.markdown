@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ольга Слуцкер"
+title: "Ольга Слуцкер"
 short_title: "Ольга Слуцкер"
 english_short_title: "Olga-Slutsker"
 source_link: "http://tinkov.com/bizsekrety/115"

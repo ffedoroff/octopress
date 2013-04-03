@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Бойко"
+title: "Олег Бойко"
 short_title: "Олег Бойко"
 english_short_title: "Oleg-Boyko"
 source_link: "http://tinkov.com/bizsekrety/78"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Давид Ян"
+title: "Давид Ян"
 short_title: "Давид Ян"
 english_short_title: "David-Yan"
 source_link: "http://tinkov.com/bizsekrety/31"

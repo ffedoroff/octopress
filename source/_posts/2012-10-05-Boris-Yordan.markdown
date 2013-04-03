@@ -4,8 +4,8 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Борис Йордан"
-short_title: "Борис Йордан"
+title: "Борис Йордан"
+short_title: "основатель \"Ренессанс Капитал\""
 english_short_title: "Boris-Yordan"
 source_link: "http://tinkov.com/bizsekrety/141"
 youtube_id: "_mBtu5JGCok"

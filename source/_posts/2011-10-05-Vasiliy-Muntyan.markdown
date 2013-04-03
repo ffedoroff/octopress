@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Василий Мунтян"
+title: "Василий Мунтян"
 short_title: "Василий Мунтян"
 english_short_title: "Vasiliy-Muntyan"
 source_link: "http://tinkov.com/bizsekrety/114"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Петр Кутис"
+title: "Петр Кутис"
 short_title: "Петр Кутис"
 english_short_title: "Petr-Kutis"
 source_link: "http://tinkov.com/bizsekrety/118"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ричард Брэнсон"
+title: "Ричард Брэнсон"
 short_title: "Ричард Брэнсон"
 english_short_title: "Richard-Branson"
 source_link: "http://tinkov.com/bizsekrety/73"

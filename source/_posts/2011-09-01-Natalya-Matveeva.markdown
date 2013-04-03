@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Наталья Матвеева"
+title: "Наталья Матвеева"
 short_title: "Наталья Матвеева"
 english_short_title: "Natalya-Matveeva"
 source_link: "http://tinkov.com/bizsekrety/105"

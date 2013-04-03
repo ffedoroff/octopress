@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Петр Малюков"
+title: "Петр Малюков"
 short_title: "Петр Малюков"
 english_short_title: "Petr-Malyukov"
 source_link: "http://tinkov.com/bizsekrety/58"

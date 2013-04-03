@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Майкл Калви"
+title: "Майкл Калви"
 short_title: "Майкл Калви"
 english_short_title: "Maykl-Kalvi"
 source_link: "http://tinkov.com/bizsekrety/138"

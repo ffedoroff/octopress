@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Полонский (2)"
+title: "Сергей Полонский (2)"
 short_title: "Сергей Полонский (2)"
 english_short_title: "Sergey-Polonskiy-2"
 source_link: "http://tinkov.com/bizsekrety/109"

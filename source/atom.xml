@@ -34,7 +34,7 @@ layout: nil
 
   {% for post in site.posts limit: 200 %}
   <item>
-    <title>{{ post.title | cdata_escape }}</title>
+    <title>{{ post.title | cdata_escape }}{% if post.title == post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</title>
     <link>{{ site.url }}{{ post.url }}</link>
     <guid>{{ site.url }}{{ post.id }}</guid>
     <pubDate>{{ post.date | date_to_rfc822  }}</pubDate>    

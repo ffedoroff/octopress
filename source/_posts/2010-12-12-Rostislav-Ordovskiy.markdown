@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ростислав Ордовский"
+title: "Ростислав Ордовский"
 short_title: "Ростислав Ордовский"
 english_short_title: "Rostislav-Ordovskiy"
 source_link: "http://tinkov.com/bizsekrety/61"
