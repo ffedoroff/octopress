@@ -5,7 +5,7 @@ categories:
 - Все выпуски
 - Бизнес Секреты
 title: "Наталья Касперская"
-short_title: "Наталья Касперская"
+short_title: "Создатель лабаратории \"Касперского\""
 english_short_title: "Natalya-Kasperskaya"
 source_link: "http://tinkov.com/bizsekrety/41"
 russia_id: "tinkov_10618"
