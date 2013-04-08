@@ -1,0 +1,54 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+<channel>
+
+  <title><![CDATA[{{ site.title | cdata_escape }}]]></title>
+  <link>{{ site.url }}/</link>
+  <language>ru</language>
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{ site.url }}/atom.xml"/>
+  <description/>
+  <media:copyright>
+    Creative Commons - Attribution, Noncommercial, No Derivative Works 3.0 License.
+  </media:copyright>
+  <media:thumbnail url="{{ site.url }}/images/tinkov.jpg"/>
+  <media:keywords>business,russian,radio</media:keywords>
+  <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+  <itunes:owner>
+    <itunes:email>{{ site.email }}</itunes:email>
+    <itunes:name>Олег Тиньков</itunes:name>
+  </itunes:owner>
+  <itunes:author>Олег Тиньков</itunes:author>
+  <itunes:image href="{{ site.url }}/images/tinkov.jpg"/>
+  <itunes:keywords>business,russian,radio</itunes:keywords>
+  <itunes:subtitle>{{ site.title }}</itunes:subtitle>
+  <itunes:summary>{{ site.title }}</itunes:summary>
+  <itunes:category text="Business">
+    <itunes:category text="Business News"/>
+  </itunes:category>
+  <itunes:explicit>no</itunes:explicit>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license>
+
+  {% for post in site.posts limit: 200 %}
+  <item>
+    <title>2 {{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</title>
+    <link>{{ site.url }}{{ post.url }}</link>
+    <guid>{{ site.url }}{{ post.id }}</guid>
+    <pubDate>{{ post.date | date_to_rfc822  }}</pubDate>    
+    <description><![CDATA[2 {{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+    <author>roma@linkentools.com (Oleg Tinkov by Roman Fedorov)</author>
+    <enclosure url="{{ site.url }}/audio/Biznes-sekrety/2/2{{ post.english_short_title }}.mp3" length="58834985" type="audio/mpeg"/>
+    <media:content url="{{ site.url }}/audio/Biznes-sekrety/2/2{{ post.english_short_title }}.mp3" fileSize="58834985" type="audio/mpeg"/>
+    <itunes:subtitle>2 {{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</itunes:subtitle>
+    <itunes:author>Oleg Tinkov</itunes:author>
+    <itunes:summary>2 {{ post.title | cdata_escape }}{% if post.title != post.short_title %} ({{ post.short_title | cdata_escape }}){% endif %}</itunes:summary>
+    <itunes:keywords>business,russian,radio,mp3,tinkov</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  {% endfor %}
+  
+</channel>
+</rss>
