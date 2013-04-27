@@ -5,7 +5,7 @@ require "stringex"
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "rfedorov@linkentools.com"
-ssh_port       = "22"
+ssh_port       = "58289"
 document_root  = "/var/www/tinkov"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync

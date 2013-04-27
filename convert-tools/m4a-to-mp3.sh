@@ -7,6 +7,6 @@ for f in *.m4a
 	echo "vbrfix -always t.mp3 "\"${f%.m4a}.mp3\""" >> tmp.sh
 	echo "rm t.mp3" >> tmp.sh
 done
-echo "rm -f vbrfix* tmp.sh" >> tmp.sh
-#bash tmp.sh
+#echo "rm -f vbrfix* tmp.sh" >> tmp.sh
+bash tmp.sh
 #echo "now run: bash tmp.sh"
