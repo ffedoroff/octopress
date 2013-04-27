@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Артемий Троицкий"
+title: "Артемий Троицкий"
 short_title: "Артемий Троицкий"
 english_short_title: "Artemiy-Troitskiy"
 source_link: "http://tinkov.com/bizsekrety/42"

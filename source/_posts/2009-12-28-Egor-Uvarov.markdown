@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Егор Уваров"
+title: "Егор Уваров"
 short_title: "Егор Уваров"
 english_short_title: "Egor-Uvarov"
 source_link: "http://tinkov.com/bizsekrety/14"

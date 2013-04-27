@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Черников"
+title: "Сергей Черников"
 short_title: "Сергей Черников"
 english_short_title: "Sergey-Chernikov"
 source_link: "http://tinkov.com/bizsekrety/8"

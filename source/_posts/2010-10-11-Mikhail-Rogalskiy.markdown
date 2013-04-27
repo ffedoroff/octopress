@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Михаил Рогальский"
+title: "Михаил Рогальский"
 short_title: "Михаил Рогальский"
 english_short_title: "Mikhail-Rogalskiy"
 source_link: "http://tinkov.com/bizsekrety/52"

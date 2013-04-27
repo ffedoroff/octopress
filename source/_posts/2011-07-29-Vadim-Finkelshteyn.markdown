@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Вадим Финкельштейн"
+title: "Вадим Финкельштейн"
 short_title: "Вадим Финкельштейн"
 english_short_title: "Vadim-Finkelshteyn"
 source_link: "http://tinkov.com/bizsekrety/100"

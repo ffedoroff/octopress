@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Анна Сахара"
+title: "Анна Сахара"
 short_title: "Анна Сахара"
 english_short_title: "Anna-Sakhara"
 source_link: "http://tinkov.com/bizsekrety/40"

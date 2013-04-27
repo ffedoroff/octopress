@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Мечетин"
+title: "Александр Мечетин"
 short_title: "Александр Мечетин"
 english_short_title: "Aleksandr-Mechetin"
 source_link: "http://tinkov.com/bizsekrety/30"

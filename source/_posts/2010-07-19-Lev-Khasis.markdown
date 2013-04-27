@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Лев Хасис"
+title: "Лев Хасис"
 short_title: "Лев Хасис"
 english_short_title: "Lev-Khasis"
 source_link: "http://tinkov.com/bizsekrety/43"

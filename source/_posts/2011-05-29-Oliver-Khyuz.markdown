@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Оливер Хьюз"
+title: "Оливер Хьюз"
 short_title: "Оливер Хьюз"
 english_short_title: "Oliver-Khyuz"
 source_link: "http://tinkov.com/bizsekrety/84"

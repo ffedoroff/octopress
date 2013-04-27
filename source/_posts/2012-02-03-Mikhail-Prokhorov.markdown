@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Михаил Прохоров"
+title: "Михаил Прохоров"
 short_title: "Михаил Прохоров"
 english_short_title: "Mikhail-Prokhorov"
 source_link: "http://tinkov.com/bizsekrety/136"

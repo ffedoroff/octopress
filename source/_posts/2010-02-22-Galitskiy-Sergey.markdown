@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Галицкий Сергей"
+title: "Галицкий Сергей"
 short_title: "Галицкий Сергей"
 english_short_title: "Galitskiy-Sergey"
 source_link: "http://tinkov.com/bizsekrety/21"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Финкельштейн"
+title: "Евгений Финкельштейн"
 short_title: "Евгений Финкельштейн"
 english_short_title: "Evgeniy-Finkelshteyn"
 source_link: "http://tinkov.com/bizsekrety/37"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Касперский"
+title: "Евгений Касперский"
 short_title: "Евгений Касперский"
 english_short_title: "Evgeniy-Kasperskiy"
 source_link: "http://tinkov.com/bizsekrety/29"

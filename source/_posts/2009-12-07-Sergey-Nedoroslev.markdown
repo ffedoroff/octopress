@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Недорослев"
+title: "Сергей Недорослев"
 short_title: "Сергей Недорослев"
 english_short_title: "Sergey-Nedoroslev"
 source_link: "http://tinkov.com/bizsekrety/10"

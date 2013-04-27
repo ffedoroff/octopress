@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Руслан Фазлыев"
+title: "Руслан Фазлыев"
 short_title: "Руслан Фазлыев"
 english_short_title: "Ruslan-Fazlyev"
 source_link: "http://tinkov.com/bizsekrety/65"

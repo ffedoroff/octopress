@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ги Лалиберте"
+title: "Ги Лалиберте"
 short_title: "Ги Лалиберте"
 english_short_title: "Guy-Laliberte"
 source_link: "http://tinkov.com/bizsekrety/77"

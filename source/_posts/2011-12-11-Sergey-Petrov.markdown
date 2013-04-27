@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Петров"
+title: "Сергей Петров"
 short_title: "Сергей Петров"
 english_short_title: "Sergey-Petrov"
 source_link: "http://tinkov.com/bizsekrety/129"

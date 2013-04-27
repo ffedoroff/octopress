@@ -4,8 +4,8 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Акопов"
-short_title: "Александр Акопов"
+title: "Александр Акопов"
+short_title: "cоздатель \"Бригады\" и \"Бедной Насти\""
 english_short_title: "Aleksandr-Akopov"
 source_link: "http://tinkov.com/bizsekrety/10013"
 youtube_id: "DlpkVo8L59I"

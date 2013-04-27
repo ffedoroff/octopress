@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Леонид Шутов"
+title: "Леонид Шутов"
 short_title: "Леонид Шутов"
 english_short_title: "Leonid-Shutov"
 source_link: "http://tinkov.com/bizsekrety/76"

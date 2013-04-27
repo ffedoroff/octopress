@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Лариса Невидайло"
+title: "Лариса Невидайло"
 short_title: "Лариса Невидайло"
 english_short_title: "Larisa-Nevidaylo"
 source_link: "http://tinkov.com/bizsekrety/66"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Чичваркин"
+title: "Евгений Чичваркин"
 short_title: "Евгений Чичваркин"
 english_short_title: "Evgeniy-Chichvarkin"
 source_link: "http://tinkov.com/bizsekrety/74"

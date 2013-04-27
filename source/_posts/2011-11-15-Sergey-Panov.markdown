@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Панов"
+title: "Сергей Панов"
 short_title: "Сергей Панов"
 english_short_title: "Sergey-Panov"
 source_link: "http://tinkov.com/bizsekrety/125"

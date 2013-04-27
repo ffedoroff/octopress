@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Алексей Репик"
+title: "Алексей Репик"
 short_title: "Алексей Репик"
 english_short_title: "Aleksey-Repik"
 source_link: "http://tinkov.com/bizsekrety/121"

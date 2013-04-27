@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Андрей Глинский"
+title: "Андрей Глинский"
 short_title: "Андрей Глинский"
 english_short_title: "Andrey-Glinskiy"
 source_link: "http://tinkov.com/bizsekrety/127"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Дмитрий Сергеев"
+title: "Дмитрий Сергеев"
 short_title: "Дмитрий Сергеев"
 english_short_title: "Dmitriy-Sergeev"
 source_link: "http://tinkov.com/bizsekrety/122"

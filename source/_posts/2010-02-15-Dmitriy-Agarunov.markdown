@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Дмитрий Агарунов"
+title: "Дмитрий Агарунов"
 short_title: "Дмитрий Агарунов"
 english_short_title: "Dmitriy-Agarunov"
 source_link: "http://tinkov.com/bizsekrety/20"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Борис Ким"
+title: "Борис Ким"
 short_title: "Борис Ким"
 english_short_title: "Boris-Kim"
 source_link: "http://tinkov.com/bizsekrety/55"

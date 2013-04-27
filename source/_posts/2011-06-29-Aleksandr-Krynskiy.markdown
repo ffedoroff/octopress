@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Александр Крынский"
+title: "Александр Крынский"
 short_title: "Александр Крынский"
 english_short_title: "Aleksandr-Krynskiy"
 source_link: "http://tinkov.com/bizsekrety/92"

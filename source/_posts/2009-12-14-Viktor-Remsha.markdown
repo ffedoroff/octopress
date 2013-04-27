@@ -4,8 +4,8 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Виктор Ремша"
-short_title: "Виктор  Ремша"
+title: "Виктор Ремша"
+short_title: "Виктор Ремша"
 english_short_title: "Viktor-Remsha"
 source_link: "http://tinkov.com/bizsekrety/11"
 russia_id: "tinkov_8967"

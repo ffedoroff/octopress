@@ -5,5 +5,5 @@
 <footer>
   <span class="categories">{{ post.categories | category_links }}</span>
 </footer>
-<h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>        
+<h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}{% if post.title != post.short_title %}<span class="subtitle">{{ post.short_title }}</span>{% endif %}</a></h1>        
 {% endif %}

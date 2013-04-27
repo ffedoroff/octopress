@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ромил Чумаков"
+title: "Ромил Чумаков"
 short_title: "Ромил Чумаков"
 english_short_title: "Romil-Chumakov"
 source_link: "http://tinkov.com/bizsekrety/102"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Игорь Пономарев"
+title: "Игорь Пономарев"
 short_title: "Игорь Пономарев"
 english_short_title: "Igor-Ponomarev"
 source_link: "http://tinkov.com/bizsekrety/3"

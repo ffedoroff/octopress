@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Султанна Французова"
+title: "Султанна Французова"
 short_title: "Султанна Французова"
 english_short_title: "Sultanna-Frantsuzova"
 source_link: "http://tinkov.com/bizsekrety/103"

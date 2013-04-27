@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Андрей Скворцов"
+title: "Андрей Скворцов"
 short_title: "Андрей Скворцов"
 english_short_title: "Andrey-Skvortsov"
 source_link: "http://tinkov.com/bizsekrety/131"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Кирилл Гусев"
+title: "Кирилл Гусев"
 short_title: "Кирилл Гусев"
 english_short_title: "Kirill-Gusev"
 source_link: "http://tinkov.com/bizsekrety/60"

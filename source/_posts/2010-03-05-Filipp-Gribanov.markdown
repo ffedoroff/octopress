@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Филипп Грибанов"
+title: "Филипп Грибанов"
 short_title: "Филипп Грибанов"
 english_short_title: "Filipp-Gribanov"
 source_link: "http://tinkov.com/bizsekrety/22"

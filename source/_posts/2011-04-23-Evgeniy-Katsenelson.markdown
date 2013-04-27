@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Каценельсон"
+title: "Евгений Каценельсон"
 short_title: "Евгений Каценельсон"
 english_short_title: "Evgeniy-Katsenelson"
 source_link: "http://tinkov.com/bizsekrety/79"

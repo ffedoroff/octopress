@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Алексей Комиссаров"
+title: "Алексей Комиссаров"
 short_title: "Алексей Комиссаров"
 english_short_title: "Aleksey-Komissarov"
 source_link: "http://tinkov.com/bizsekrety/104"

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Максим Ноготков"
+title: "Максим Ноготков"
 short_title: "Максим Ноготков"
 english_short_title: "Maksim-Nogotkov"
 source_link: "http://tinkov.com/bizsekrety/111"

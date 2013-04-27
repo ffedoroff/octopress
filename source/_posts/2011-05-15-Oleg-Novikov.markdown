@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Новиков"
+title: "Олег Новиков"
 short_title: "Олег Новиков"
 english_short_title: "Oleg-Novikov"
 source_link: "http://tinkov.com/bizsekrety/82"

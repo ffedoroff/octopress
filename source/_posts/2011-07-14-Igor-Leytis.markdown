@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Игорь Лейтис"
+title: "Игорь Лейтис"
 short_title: "Игорь Лейтис"
 english_short_title: "Igor-Leytis"
 source_link: "http://tinkov.com/bizsekrety/97"

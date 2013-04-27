@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Ника Белоцерковская"
+title: "Ника Белоцерковская"
 short_title: "Ника Белоцерковская"
 english_short_title: "Nika-Belotserkovskaya"
 source_link: "http://tinkov.com/bizsekrety/72"

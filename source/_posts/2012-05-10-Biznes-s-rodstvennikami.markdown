@@ -6,7 +6,7 @@ categories:
 - Бизнес Секреты
 - Вопросы
 title: "Вопрос 10: Бизнес с родственниками"
-short_title: "Бизнес с родственниками"
+short_title: "Вопрос 10: Бизнес с родственниками"
 english_short_title: "Biznes-s-rodstvennikami"
 source_link: "http://tinkov.com/bizsekrety/OTvet/10"
 date_publication: "2012-05-10"

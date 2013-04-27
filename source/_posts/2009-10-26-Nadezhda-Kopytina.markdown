@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Надежда Копытина"
+title: "Надежда Копытина"
 short_title: "Надежда Копытина"
 english_short_title: "Nadezhda-Kopytina"
 source_link: "http://tinkov.com/bizsekrety/4"

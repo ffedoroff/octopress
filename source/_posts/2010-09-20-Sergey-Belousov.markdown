@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Сергей Белоусов"
+title: "Сергей Белоусов"
 short_title: "Сергей Белоусов"
 english_short_title: "Sergey-Belousov"
 source_link: "http://tinkov.com/bizsekrety/49"

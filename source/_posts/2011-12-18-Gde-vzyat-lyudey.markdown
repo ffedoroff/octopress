@@ -6,7 +6,7 @@ categories:
 - Бизнес Секреты
 - Вопросы
 title: "Вопрос 5: Где взять людей?"
-short_title: "Где взять людей?"
+short_title: "Вопрос 5: Где взять людей?"
 english_short_title: "Gde-vzyat-lyudey"
 source_link: "http://tinkov.com/bizsekrety/OTvet/5"
 date_publication: "2011-12-18"

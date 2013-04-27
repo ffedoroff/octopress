@@ -6,7 +6,7 @@ categories:
 - Бизнес Секреты
 - Вопросы
 title: "Вопрос 9: Проблемы бизнеса в Украине"
-short_title: "Проблемы бизнеса в Украине"
+short_title: "Вопрос 9: Проблемы бизнеса в Украине"
 english_short_title: "Problemy-biznesa-v-Ukraine"
 source_link: "http://tinkov.com/bizsekrety/OTvet/9"
 youtube_id: "htHlBb6OR8Y"

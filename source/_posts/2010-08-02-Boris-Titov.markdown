@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Борис Титов"
+title: "Борис Титов"
 short_title: "Борис Титов"
 english_short_title: "Boris-Titov"
 source_link: "http://tinkov.com/bizsekrety/45"

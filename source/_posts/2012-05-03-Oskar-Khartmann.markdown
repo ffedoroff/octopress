@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Оскар Хартманн"
+title: "Оскар Хартманн"
 short_title: "Оскар Хартманн"
 english_short_title: "Oskar-Khartmann"
 source_link: "http://tinkov.com/bizsekrety/139"

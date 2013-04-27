@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Максим Кочанов"
+title: "Максим Кочанов"
 short_title: "Максим Кочанов"
 english_short_title: "Maksim-Kochanov"
 source_link: "http://tinkov.com/bizsekrety/53"

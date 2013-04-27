@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Эдуард Тиктинский"
+title: "Эдуард Тиктинский"
 short_title: "Эдуард Тиктинский"
 english_short_title: "Eduard-Tiktinskiy"
 source_link: "http://tinkov.com/bizsekrety/23"

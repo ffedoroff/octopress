@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Евгений Бессчастнов"
+title: "Евгений Бессчастнов"
 short_title: "Евгений Бессчастнов"
 english_short_title: "Evgeniy-Besschastnov"
 source_link: "http://tinkov.com/bizsekrety/68"

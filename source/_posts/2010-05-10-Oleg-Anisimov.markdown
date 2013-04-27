@@ -4,7 +4,7 @@ layout: post
 categories:
 - Все выпуски
 - Бизнес Секреты
-title: "Бизнес-секреты: Олег Анисимов"
+title: "Олег Анисимов"
 short_title: "Олег Анисимов"
 english_short_title: "Oleg-Anisimov"
 source_link: "http://tinkov.com/bizsekrety/33"
